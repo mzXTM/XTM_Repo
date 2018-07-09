@@ -1,0 +1,35 @@
+de_completedde
+"ActivityType_ActivityPast" = "completed";
+
+de_arc trained
+"ActivityType_ArcTrainerPast" = "arc trained";
+
+de_completed a barre activity
+"ActivityType_BarrePast" = "completed a barre activity";
+
+de_completed a bootcamp workout
+"ActivityType_BootcampPast" = "completed a bootcamp workout";
+
+de_completed a boxing / MMA workout
+"ActivityType_BoxingMMAPast" = "completed a boxing / MMA workout";
+
+de_circuit trained
+"ActivityType_CircuitTrainingPast" = "circuit trained";
+
+de_core strengthened
+"ActivityType_CoreStrengtheningPast" = "core strengthened";
+
+de_completed a CrossFit® workout
+"ActivityType_CrossFitPast" = "completed a CrossFit® workout";
+
+de_biked
+"ActivityType_CyclingPast" = "biked";
+
+de_bike
+"ActivityType_CyclingShort" = "bike";
+
+de_fenced
+"ActivityType_FencePast" = "fenced";
+
+de_baited
+"ActivityType_BaitPast" = "baited";
