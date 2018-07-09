@@ -33,3 +33,6 @@ pl_fenced
 
 pl_baited
 "ActivityType_BaitPast" = "baited";
+
+/* Aimed */
+"ActivityType_AimPast" = "aimed";
