@@ -29,4 +29,7 @@ pl_bike
 "ActivityType_CyclingShort" = "bike";
 
 pl_fenced
+<<<<<<< HEAD
 "ActivityType_FencePast" = "fenced";
+=======
+>>>>>>> branch_FeatA

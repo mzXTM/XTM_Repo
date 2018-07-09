@@ -29,4 +29,7 @@ de_bike
 "ActivityType_CyclingShort" = "bike";
 
 de_fenced
+<<<<<<< HEAD
 "ActivityType_FencePast" = "fenced";
+=======
+>>>>>>> branch_FeatA
