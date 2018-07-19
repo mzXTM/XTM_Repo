@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resource>
+<?xml version="1.0" encoding="UTF-8"?><resource>
  <item name="quest_xtm_test_key"><![CDATA[XTM Test Key in the file resource_quest.xml]]></item>
  <item name="quest_headline_jobs"><![CDATA[Jobs]]></item>
  <item name="quest_headline_overview"><![CDATA[Übersicht]]></item>
@@ -227,11 +226,11 @@
  <item name="quest_teaser_150"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
  <item name="quest_teaser_151"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
  <item name="quest_teaser_152"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
- <item name="quest_teaser_153"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alles dota weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
+ <item name="quest_teaser_153"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. DE_ Alles dotKA DWA weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
  <item name="quest_teaser_154"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
  <item name="quest_teaser_155"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
  <item name="quest_teaser_156"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
- <item name="quest_teaser_157"><![CDATA[Kiedy byłem małym chłopcem. Hej! Wziął mnie ojciec, wziął mnie ojciec i tak do mnie rzekł.]]></item>
+ <item name="quest_teaser_157"><![CDATA[Kiedy byłem małym chłopcem. Hej! ->BEST Wziął mnie ojciec, wziął mnie ojciec i tak do mnie rzekł.]]></item>
  <item name="quest_teaser_158"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
  <item name="quest_teaser_159"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
  <item name="quest_teaser_160"><![CDATA[Hier eine Aufgabe aus dem Datenarchiv. Alle weiteren Details entnimm bitte der Missionsbeschreibung.]]></item>
@@ -247,7 +246,7 @@
  <item name="quest_teaser_172"><![CDATA[Das Urlaubskomitee unserer schönen Firma hat Deinen diesjährigen Urlaub in eine ganz besonders schöne Gegend verlegt. In feindliche X-1 Karten.]]></item>
  <item name="quest_teaser_173"><![CDATA[Um in die erste Riege der SpacePiloten aufzusteigen, muss man sich ein wenig auskennen in unserer Galaxie.]]></item>
  <item name="quest_teaser_174"><![CDATA[Sehen die gegnerischen Basen eigentlich genauso aus wie unsere eigene?]]></item>
- <item name="quest_teaser_175"><![CDATA[Diese BASSHUNTER aus unserer Abteilung für alternative Strategien haben sich überlegt, eine DOTAAA des gewaltfreien Widerstands auszuprobieren. Dieser DOTA ALLSTARS Antrag ist auch noch bewilligt worden und wir werden die Suppe wohl auslöffeln müssen.]]></item>
+ <item name="quest_teaser_175"><![CDATA[De_diese BASSHUNTER aus unserer Abteilung für alternative Strategien haben sich überlegt, eine DOTAAA des gewaltfreien Widerstands auszuprobieren. de_Dieser DOTA ALLSTARS BEST GEM Antrag ist auch noch bewilligt worden und wir werden die Suppe wohl auslöffeln müssen.]]></item>
  <item name="quest_teaser_176"><![CDATA[Acht Minuten können lang sein. Setze Dein Schiff der ultimativen Herausforderung aus.]]></item>
  <item name="quest_teaser_177"><![CDATA[Quallen sind eklig. Suche Dir aus, welche Du auslöschen möchtest. Nur mach es bitte bald!]]></item>
  <item name="quest_teaser_178"><![CDATA[Mach Dich auf eine kleine Rundreise auf den hohen Maps und statte den dort beheimateten Aliens einen Besuch ab.]]></item>
