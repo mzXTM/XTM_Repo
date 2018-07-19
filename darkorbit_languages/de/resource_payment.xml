@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resource>
+<?xml version="1.0" encoding="UTF-8"?><resource>
  <item name="payment_starter_packs_headline"><![CDATA[Starter-Pakete]]></item>
  <item name="payment_starter_packs_headline_new"><![CDATA[Start Kits]]></item>
- <item name="payment_starter_packs_text"><![CDATA[Immer im Kreuzfeuer? Schlag bei diesem AngebotDOTO zu ... und dann zurück!]]></item>
+ <item name="payment_starter_packs_text"><![CDATA[DE_Immer im Kreuzfeuer? Schlag bei diesem AngebotDOTO zu ... und dann zurück!!!]]></item>
  <item name="payment_premium_members_headline"><![CDATA[Premium-Mitglieder]]></item>
  <item name="payment_premium_members_text"><![CDATA[Unverzichtbar für ambitionierte Piloten. Unterwerfe das All!]]></item>
  <item name="payment_advantage_packs_headline"><![CDATA[Vorteilspakete]]></item>
@@ -10,7 +9,7 @@
  <item name="payment_advantage_packs_text"><![CDATA[Schneller, härter, effizienter. Mit Dir legt sich keiner an!]]></item>
  <item name="payment_equipment_packs_headline"><![CDATA[Ausrüstungspakete]]></item>
  <item name="payment_deal_packs_headline"><![CDATA[Best Deals]]></item>
- <item name="payment_equipment_packs_text"><![CDATA[Feuer frei! Lehre Deine Gegner das DOTA 2 Fürchten - mit mächtigen Waffen und stahlharten Schutzschilden.]]></item>
+ <item name="payment_equipment_packs_text"><![CDATA[De Feuer frei!! DE_Lehre Deine Gegner das DOTA 2 Fürchten - mit mächtigen Waffen und stahlharten Schutzschilden...]]></item>
  <item name="payment_get_uridium"><![CDATA[Hol Dir Uridium]]></item>
  <item name="payment_earn_uridium"><![CDATA[Cash for action]]></item>
  <item name="payment_lottery_text_title"><![CDATA[KAPSEL-LOTTERIE]]></item>
