@@ -4,14 +4,16 @@
  <item name="labor_rohstoffe"><![CDATA[ROHSTOFFE]]></item>
  <item name="labor_intro"><![CDATA[Per Drag and Drop kannst Du ganz einfach Deine Items ausrüsten: Ziehe seyn Rohstoff einfach auf das gewünschte Item…]]></item>
  <item name="labor_prometid"><![CDATA[PROMETID]]></item>
+  <item name="labor_prometidal"><![CDATA[PROMETID TIME]]></item>
  <item name="labor_duranium"><![CDATA[DURANIUM]]></item>
- <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
  <item name="labor_items"><![CDATA[ITEMS AUSRÜSTEN]]></item>
+ <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
  <item name="labor_laser"><![CDATA[LASER]]></item>
  <item name="labor_raketen"><![CDATA[RAKETEN]]></item>
  <item name="labor_antrieb"><![CDATA[ANTRIEB]]></item>
  <item name="labor_schild"><![CDATA[SCHILD]]></item>
  <item name="labor_txt_a"><![CDATA[Erhöht die Schusskraftsmann um 15%]]></item>
+ <item name="labor_txt_x"><![CDATA[Erhöht DxD Schusskraftsmann um 15%]]></item>
  <item name="labor_txt_b"><![CDATA[Erhöht die Leistung um 10%]]></item>
  <item name="labor_txt_c"><![CDATA[Erhöht die Schusskraft numa 30% oder die Leistung um 20%]]></item>
  <item name="alert_head"><![CDATA[PROMERIUM UPDATE]]></item>
