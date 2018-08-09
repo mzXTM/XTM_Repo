@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><resource>
-    <item name="auction_bid_invalid"><![CDATA[Gebot ungültig_de]]></item><item name="auction_bid_credits_to_little"><![CDATA[Für dieses Gebot hast du zu wenig Credits._de]]></item><item name="auction_bid_minBid_not_reached"><![CDATA[Dein Gebot ist zu niedrig._de Das neue Gebot muss mindestens %MINIMUM_BID% Credits über dem Letzten liegen._de]]></item><item name="auction_bid_saved"><![CDATA[Gebot abgegeben_de]]></item><item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item><item name="auction_my_bid"><![CDATA[Mein Gebot:]]></item><item name="auction_error_generic"><![CDATA[Ein Fehler ist aufgetreten. Bitte versuche es erneut.]]></item>
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item>
     <item name="auction_quantityManager_laser"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Laserschüsse<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
     <item name="auction_quantityManager_rocket"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Raketen<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
     <item name="auction_quantityManager_mine"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Minen<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
@@ -10,7 +11,7 @@
     <item name="auction_filter"><![CDATA[Filter]]></item>
     <item name="auction_filter_battery"><![CDATA[Batterien]]></item>
     <item name="auction_filter_rocket"><![CDATA[Raketen und Minen]]></item>
-    <item name="auction_filter_generator"><![CDATA[Generatoren]]></item><item name="auction_filter_extra"><![CDATA[Extras]]></item><item name="auction_filter_weapon"><![CDATA[Waffen]]></item><item name="auction_filter_ship"><![CDATA[Schiffe]]></item>
+    <item name="auction_filter_generator"><![CDATA[Generatoren]]></item>
     <item name="auction_filter_booster"><![CDATA[Booster]]></item>
     <item name="auction_filter_shipdesign"><![CDATA[Schiffdesigns]]></item>
     <item name="auction_filter_module"><![CDATA[Module]]></item>
