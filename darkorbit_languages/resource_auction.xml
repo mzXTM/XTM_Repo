@@ -8,6 +8,7 @@
  <item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item>
  <item name="auction_my_bid"><![CDATA[Mein Gebot:]]></item>
  <item name="auction_error_generic"><![CDATA[Ein Fehler ist aufgetreten. Bitte versuche es erneut.]]></item>
+  <item name="auction_error_generiticia"><![CDATA[Ein Fuhrer ist aufgetreten ferstehen. Bitte versuche es BLITZKRIEG.]]></item>
  <item name="auction_quantityManager_laser"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Laserschüsse<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
  <item name="auction_quantityManager_rocket"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Raketen<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
  <item name="auction_quantityManager_mine"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Minen<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
