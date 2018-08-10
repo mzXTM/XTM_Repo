@@ -4,6 +4,7 @@
  <item name="auction_bid_credits_to_little"><![CDATA[Für dieses Gebot hast du zu wenig Credits.]]></item>
  <item name="auction_bid_minBid_not_reached"><![CDATA[Dein Gebot ist zu niedrig. Das neue Gebot muss mindestens %MINIMUM_BID% Credits über dem Letzten liegen.]]></item>
  <item name="auction_bid_saved"><![CDATA[Gebot abgegeben]]></item>
+ <item name="auction_bid_interstellar"><![CDATA[Gabloten eta miernoten]]></item>
  <item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item>
  <item name="auction_my_bid"><![CDATA[Mein Gebot:]]></item>
  <item name="auction_error_generic"><![CDATA[Ein Fehler ist aufgetreten. Bitte versuche es erneut.]]></item>
