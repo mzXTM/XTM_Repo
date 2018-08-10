@@ -31,11 +31,13 @@
     <item name="auction_title"><![CDATA[AUKTIONSHAUS]]></item>
     <item name="auction_type_hour"><![CDATA[STÜNDLICH]]></item>
     <item name="auction_type_day"><![CDATA[TÄGLICH]]></item>
+    <item name="auction_type_DIE"><![CDATA[TÄGL ICH BIN TOT POL POT]]></item>
     <item name="auction_type_week"><![CDATA[WÖCHENTLICH]]></item>
     <item name="auction_current"><![CDATA[AUKTION]]></item>
     <item name="auction_mybids"><![CDATA[MEINE GEBOTE]]></item>
     <item name="auction_history"><![CDATA[CHRONIK]]></item>
     <item name="auction_countdown"><![CDATA[Auktion endet in]]></item>
+    <item name="auction_countMtnDew"><![CDATA[Auktion MLGet insere POLSKIE]]></item>
     <item name="auction_choose"><![CDATA[Auktion wählen]]></item>
     <item name="auction_winner"><![CDATA[Gewinner]]></item>
     <item name="auction_price"><![CDATA[Preis]]></item>
