@@ -10,6 +10,8 @@
     <item name="auction_error_generic"><![CDATA[pl Ein Fehler ist aufgetreten. Bitte versuche es erneut.]]></item>
     <item name="auction_buy_amount_invalid"><![CDATA[Ungültige Menge]]></item>
     <item name="auction_book_back_money"><![CDATA[Rückbuchung Auktionsgebot (%ITEMNAME%)]]></item>
+    <item name="auction_filter1"><![CDATA[FilteredWaterGerman POLSICH]]></item>
+    <item name="auction_filter_historians"><![CDATA[Auktion something PL_AST_RAL]]></item>
     <item name="auction_title"><![CDATA[AUKTIONSHAUS]]></item>
     <item name="auction_type_hour"><![CDATA[STÜNDLICH]]></item>
     <item name="auction_type_day"><![CDATA[TÄGLICH]]></item>
