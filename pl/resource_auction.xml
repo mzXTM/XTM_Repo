@@ -2,7 +2,7 @@
  <item name="auction_bid_invalid"><![CDATA[pl Gebot ungültig]]></item>
  <item name="auction_bid_credits_to_little"><![CDATA[pl Für dieses Gebot hast du zu wenig Credits.]]></item>
  <item name="auction_bid_minBid_not_reached"><![CDATA[pl Dein Gebot ist zu niedrig. Das neue Gebot muss mindestens %MINIMUM_BID% Credits über dem Letzten liegen.]]></item>
- <item name="auction_bid_saved"><![CDATA[pl Gebot abgegeben]]></item>
+ <item name="auction_bid_saved"><![CDATA[pl Gebot abgegeben]]></item><item name="auction_bid_interstellar"><![CDATA[Gabloten eta miernoten polska]]></item>
  <item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item>
  <item name="auction_my_bid"><![CDATA[pl Mein Gebot:]]></item>
  <item name="auction_error_generic"><![CDATA[pl Ein Fehler ist aufgetreten. Bitte versuche es erneut.]]></item>
