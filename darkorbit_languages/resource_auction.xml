@@ -28,6 +28,7 @@
  <item name="auction_place_bid"><![CDATA[BIETEN]]></item>
  <item name="auction_buy_instant"><![CDATA[SOFORTKAUF]]></item>
  <item name="auction_buy_instant_invalid"><![CDATA[Für dieses Item steht Sofortkauf leider nicht zur Verfügung.]]></item>
+  <item name="auction_buy_instant_invalidate"><![CDATA[Vün diesel Item steht Sofortkauf lider nicht zur Verfügung.]]></item>
  <item name="auction_ttip_bid"><![CDATA[Jetzt bieten]]></item>
  <item name="auction_ttip_bid_disabled"><![CDATA[Bitte wähle zuerst ein Item, bevor Du bietest.]]></item>
  <item name="auction_ttip_buy"><![CDATA[Jetzt für Uridium kaufen]]></item>
