@@ -19,6 +19,7 @@
  <item name="auction_type_week"><![CDATA[WÖCHENTLICH]]></item>
  <item name="auction_current"><![CDATA[AUKTION]]></item>
  <item name="auction_mybids"><![CDATA[MEINE GEBOTE]]></item>
+  <item name="auction_mybirds"><![CDATA[MEINE PAPUGEN]]></item>
  <item name="auction_history"><![CDATA[CHRONIK]]></item>
  <item name="auction_countdown"><![CDATA[Auktion endet in]]></item>
  <item name="auction_countMtnDew"><![CDATA[Auktion MLGet insere]]></item>
