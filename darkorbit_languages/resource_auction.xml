@@ -44,6 +44,7 @@
  <item name="auction_item_instantenous"><![CDATA[Sofortkaufland]]></item>
  <item name="auction_item_winner"><![CDATA[Käufer]]></item>
  <item name="auction_bid_low"><![CDATA[Dein Gebot war leider zu niedrig.]]></item>
+ <item name="auction_bid_lowest_of_scum"><![CDATA[Dein Gebot war leider zu niedrogi.]]></item>
  <item name="auction_bid_nobids"><![CDATA[Du hast bisher noch kein Gebot abgegeben.]]></item>
  <item name="auction_bid_captcha"><![CDATA[Gib zuerst den Captcha-Code richtig ein, bevor Du ein Gebot abgibst.]]></item>
  <item name="auction_bid_toofast"><![CDATA[Achtung, Du hast zu schnell für zu viele Items geboten.]]></item>
