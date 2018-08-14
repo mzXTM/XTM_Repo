@@ -45,7 +45,7 @@
     <item name="auction_bid_nobids"><![CDATA[Du hast bisher noch kein Gebot abgegeben.]]></item>
     <item name="auction_bid_captcha"><![CDATA[Gib zuerst den Captcha-Code richtig ein, bevor Du ein Gebot abgibst.]]></item>
     <item name="auction_bid_toofast"><![CDATA[Achtung, Du hast zu schnell für zu viele Items geboten.]]></item>
-    <item name="auction_bid_characters"><![CDATA[Bitte gib als Betrag nur Zahlen ein (ohne Punkt & Komma).]]></item>
+    <item name="auction_bid_characters"><![CDATA[Bitte gib als Betrag nur Zahlen ein (ohne Punkt & Kommandos).]]></item>
     <item name="auction_enable_mail"><![CDATA[Bestätigungsmail aktivieren.]]></item>
     <item name="auction_disable_mail"><![CDATA[Bestätigungsmail deaktivieren.]]></item>
     <item name="auction_mail_label"><![CDATA[Bestätigungsmail]]></item>
