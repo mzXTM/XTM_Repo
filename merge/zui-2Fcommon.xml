@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+	<pkg name="services_inbox_inbox">
+		<string key="docTgsdgsfeLadocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangidocTgsdgsfeLangingi">
+			<original>EN</original>
+		</string>
+		<string key="aber">
+			
+			<original>en</original>
+		</string>
+		<string key="abdfhghs>">
+			<original>en</original>
+		</string>
+		<string key="ctaAcicep ala ma kota">
+			<original>AcceptABC</original>
+		</string>
+		<string key="inboxBingoAnnounceRealTitle">
+			<original>Score big with Zynga Bingo!</original>
+		</string>
+		<string key="inboxBingoAnnounceRealBody">
+			<original>Join your friends who've played Zynga's new live Bingo game. It's anyone's BINGO!</original>
+		</string>
+		<string key="inboxBingoAnnounceRealCTA">
+			<original>Play Now</original>
+		</string>
+		<string key="inboxBingoAnnounceFakeTitle">
+			<original>Score big with Zynga Bingo!</original>
+		</string>
+		<string key="inboxBingoAnnounceFakeBody">
+			<original>Join millions of players in Zynga's new live Bingo game. It's anyone's BINGO!</original>
+		</string>
+		<string key="inboxBingoAnnounceFakeCTA">
+			<original>Play Now</original>
+		</string>
+	</pkg>
+	<pkg name="MC">
+		<string key="docTypeLang">
+			<original>EN</original>
+		</string>
+		<string key="xmlLang">
+			<original>en</original>
+		</string>
+		<string key="htmlLang">
+			<original>en</original>
+		</string>
+		<string key="zmcMFSDesc">
+			<original>Thank you for sending me such a wonderful gift! Here is one back!</original>
+		</string>
+		<string key="zmcMFSAccept">
+			<original>Accept and Play</original>
+		</string>
+		<string key="zmcMFSTitle">
+			<original>You accepted {number} {gift}. Send this gift to your friends.</original>
+		</string>
+		<string key="zmcMFSSubTitle">
+			<original>If you don't see a friend in the list, it is because you already sent him/her a gift today.</original>
+		</string>
+		<string key="zmcMFSGiftingFriends">
+			<original>Friends who sent you {gift}</original>
+		</string>
+		<string key="zmcMFSSelectFriends">
+			<original>Select friends</original>
+		</string>
+		<string key="zmcMFSActionText">
+			<original>Select everyone to send a {gift} to.</original>
+		</string>
+		<string key="zmcGiftBackSent">
+			<original>Your gift has been sent.</original>
+		</string>
+		<string key="zmcGiftBackSentMany">
+			<original>Your gifts have been sent.</original>
+		</string>
+	</pkg>
+</strings>
