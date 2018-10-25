@@ -1,0 +1,8 @@
+test: zrobiony
+test; wywołany
+test! zawołany
+test? gdzie jesteś
+test :
+test ;
+test !
+test ?
