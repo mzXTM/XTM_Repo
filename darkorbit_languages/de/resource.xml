@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
- <item name="happy_hour"><![CDATA[<strong>Bisher hast Du tapfer gekämpft, Pilot!</strong><br />Jetzt ist Zeit zum Chillen und Kräfte sammeln!<br />Wir laden Dich ein zur<br /><strong>Happy Hour, ab jetzt bis zur nächsten vollen Stunde.</strong><br />Buche Uridium und banke 2für1 –<br /><strong>doppelte Menge Uridium zum gleichen Preis</strong><br />(für alle Bezahlarten)<br /><strong>z.B. </strong> statt 30.000 fette <strong>60.000 Uridium</strong>!<br /><br />Zieh gestärkt in die nächste Schlacht, Pilot!]]></item>
+ <item name="happy_hour"><![CDATA[<strong>BishernestHEmingway hast Du tapfer gekämpft, Pilot!</strong><br />Jetzt ist Zeit zum Chillen und Kräfte sammeln!<br />Wir laden Dich ein zur<br /><strong>Happy Hour, ab jetzt bis zur nächsten vollen Stunde.</strong><br />Buche Uridium und banke 2für1 –<br /><strong>doppelte Menge Uridium zum gleichen Preis</strong><br />(für alle Bezahlarten)<br /><strong>z.B. </strong> statt 30.000 fette <strong>60.000 Uridium</strong>!<br /><br />Zieh gestärkt in die nächste Schlacht, Pilot!]]></item>
  <item name="bonus_happy_hour_headline"><![CDATA[<strong>Jetzt schlägt Deine Stunde!</strong>]]></item>
  <item name="bonus_happy_hour_content1"><![CDATA[Der Countdown läuft! Ab jetzt bis zur nächsten vollen Stunde fahren wir die großen Preisgeschütze auf:]]></item>
  <item name="bonus_happy_hour_content2"><![CDATA[<span class="breakingNewsHighlightBlue"><ul style="margin-left: 20px;">
