@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
- <item name="clan_hl_clan_gruenden"><![CDATA[Clan gründen]]></item>
+ <item name="clan_hl_clan_gruenden"><![CDATA[Clan gründen_DEDEDE]]></item>
  <item name="clan_hl_mitteilung_versenden"><![CDATA[Mitteilung versenden]]></item>
- <item name="clan_hl_open_requests"><![CDATA[Offene Anfragen]]></item>
+ <item name="clan_hl_open_requests"><![CDATA[Offene Anfragen_DEDE]]></item>
  <item name="clan_hl_diplo_antrag"><![CDATA[Diplomatie-Antrag]]></item>
  <item name="clan_hl_diplo_beantragen"><![CDATA[Diplomatie beantragen]]></item>
  <item name="clan_hl_anfragen"><![CDATA[Anfragen]]></item>
