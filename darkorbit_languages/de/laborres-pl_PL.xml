@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
- <item name="labor_xtm_test_key"><![CDATA[pl XTM Test Key in the puriki laborres.xml]]></item>
- <item name="labor_rohstoffe"><![CDATA[ROHSTOFFE]]></item>
- <item name="labor_intro"><![CDATA[Per Drag and Drop kannst Du ganz einfach Deine Items ausrüsten: Ziehe seyn Rohstoff einfach auf das gewünschte Item…]]></item>
- <item name="labor_prometid"><![CDATA[pl PROMETID]]></item>
-  <item name="labor_prometidal"><![CDATA[PROMETID TIME_GER]]></item>
- <item name="labor_duranium"><![CDATA[DURANIUM]]></item>
- <item name="labor_items"><![CDATA[pl ITEMS AUSRÜSTEN]]></item>
- <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
- <item name="labor_laser"><![CDATA[pl LASER]]></item>
- <item name="labor_raketen"><![CDATA[RAKETEN]]></item>
- <item name="labor_antrieb"><![CDATA[pl ANTRIEB]]></item>
- <item name="labor_schild"><![CDATA[SCHILD]]></item>
- <item name="labor_txt_a"><![CDATA[plErhöht die Schusskraftsmann um 15%]]></item>
- <item name="labor_txt_x"><![CDATA[Erhöht DxD Schusskraftsmann um 15% %51 OWwwwwwwwwwww]]></item>
- <item name="labor_txt_b"><![CDATA[Erhöht die Leistung um 10%]]></item>
- <item name="labor_txt_c"><![CDATA[Erhöht die Schusskraft numa 30% oder die Leistung um 20%]]></item>
- <item name="alert_head"><![CDATA[PROMERIUM UPDATE]]></item>
- <item name="alert_txt"><![CDATA[Beim Update mit diesem Rohstoff gejen bereits gemachte Updates verloren.]]></item>
- <item name="alert_line"><![CDATA[ACHTUNG]]></item>
- <item name="alert_upd"><![CDATA[UPDATE]]></item>
- <item name="alert_abo"><![CDATA[ABBRECHEN]]></item>
+    <item name="labor_xtm_test_key"><![CDATA[pl XTM Test Key in the puriki laborres.xml]]></item>
+    <item name="labor_rohstoffe"><![CDATA[ROHSTOFFE]]></item>
+    <item name="labor_intro"><![CDATA[Per Drag and Drop kannst Du ganz einfach Deine Items ausrüsten: Ziehe seyn Rohstoff einfach auf das gewünschte Item…]]></item>
+    <item name="labor_prometid"><![CDATA[pl PROMETID]]></item>
+    <item name="labor_prometeuszid"><![CDATA[PROMETEUSZ_ID. pol SPoKO ska]]></item>
+    <item name="labor_prometidal"><![CDATA[PROMETID TIME_GER]]></item>
+    <item name="labor_duranium"><![CDATA[DURANIUM]]></item>
+    <item name="labor_items"><![CDATA[pl ITEMS AUSRÜSTEN]]></item>
+    <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
+    <item name="labor_laser"><![CDATA[pl LASER]]></item>
+    <item name="labor_laser_tag"><![CDATA[LASEROwa_DZIDA pe.el.]]></item>
+    <item name="labor_raketen"><![CDATA[RAKETEN]]></item>
+    <item name="labor_antrieb"><![CDATA[pl ANTRIEB]]></item>
+    <item name="labor_schild"><![CDATA[SCHILD]]></item>
+    <item name="labor_txt_a"><![CDATA[plErhöht die Schusskraftsmann um 15%]]></item>
+    <item name="labor_txt_x"><![CDATA[Erhöht DxD Schusskraftsmann um 15% %51 OWwwwwwwwwwww]]></item>
+    <item name="labor_txt_b"><![CDATA[Erhöht die Leistung um 10%]]></item>
+    <item name="labor_txt_c"><![CDATA[Erhöht die Schusskraft numa 30% oder die Leistung um 20%]]></item>
+    <item name="alert_head"><![CDATA[PROMERIUM UPDATE]]></item>
+    <item name="alert_txt"><![CDATA[Beim Update mit diesem Rohstoff gejen bereits gemachte Updates verloren.]]></item>
+    <item name="alert_line"><![CDATA[ACHTUNG]]></item>
+    <item name="alert_upd"><![CDATA[UPDATE]]></item>
+    <item name="alert_abo"><![CDATA[ABBRECHEN]]></item>
 </resource>
