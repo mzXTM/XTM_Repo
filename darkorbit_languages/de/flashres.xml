@@ -12,6 +12,7 @@
  <item name="canjmp"><![CDATA[Du kannst den Jump ausführen, wenn Dein Level es zulässt.]]></item>
  <item name="clearing"><![CDATA[_]]></item>
  <item name="nonjmp"><![CDATA[Du kannst dieses Portal nicht benutzen, da Du mindestens Level %! brauchst.]]></item>
+  <item name="testowykluczykmtz"><![CDATA[Du kannst dieses Portal nicht benutzen, da Du mindestens Level %! brauchstefan azja konin malezja gruzja abhazja.]]></item>
  <item name="notarget"><![CDATA[Angriff nicht möglich. Du hast keinen Gegner ausgewählt.]]></item>
  <item name="oksammel"><![CDATA[Rohstoff %! eingesammelt]]></item>
  <item name="farming"><![CDATA[Rohstoff %! wird gerade geerntet]]></item>
@@ -34,7 +35,7 @@
  <item name="attescape"><![CDATA[Du bist dem Angriff entkommen.]]></item>
  <item name="outofrange"><![CDATA[Außer Reichweite]]></item>
  <item name="peacearea"><![CDATA[Nicht-Angriffs-Zone]]></item>
- <item name="fightcont"><![CDATA[Der Kampf geht weiter.]]></item>
+ <item name="fightcont"><![CDATA[Der Kampf geht weiter. FAJTOOOOOOOOO!!!]]></item>
  <item name="fightcanceled"><![CDATA[Der Kampf wurde abgebrochen.]]></item>
  <item name="fightcanceledbyop"><![CDATA[Der Gegner hat den Kampf abgebrochen.]]></item>
  <item name="connclosed"><![CDATA[Deine Verbindung wurde getrennt.]]></item>
