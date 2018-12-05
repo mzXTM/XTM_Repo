@@ -3,7 +3,7 @@
     <item name="auction_bid_invalid"><![CDATA[Gebot ungültig]]></item>
     <item name="auction_bid_credits_to_little"><![CDATA[Für dieses Gebot hast du zu wenig Credits.]]></item>
     <item name="auction_bid_minBid_not_reached"><![CDATA[Dein Gebot ist zu niedrig. zh zh  Das neue Gebot muss mindestens %MINIMUM_BID% Credits über dem Letzten liegen. zh zh zh ]]></item>
-    <item name="auction_bid_saved"><![CDATA[Gebot abgegebenenene ita ]]></item>
+    <item name="auction_bid_saved"><![CDATA[Gebot abgegebenenene ita]]></item>
     <item name="auction_bid_interstellar"><![CDATA[Gabloten eta miernoten]]></item>
     <item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item>
     <item name="auction_my_bid"><![CDATA[Mein Gebot:]]></item>
@@ -47,8 +47,8 @@
     <item name="auction_bid_lowest_of_scum"><![CDATA[Dein Gebot war leider zu niedrogi.]]></item>
     <item name="auction_bid_nobids"><![CDATA[Du hast bisher noch kein Gebot abgegeben.]]></item>
     <item name="auction_bid_captcha"><![CDATA[Gib zuerst den Captcha-Code richtig ein, bevor Du ein Gebot abgibst.]]></item>
-    <item name="auction_bid_toofast"><![CDATA[Achtung, Du hast zu schnell für zu viele Items geboten.]]></item>
-    <item name="auction_bid_characters"><![CDATA[Bitte gib als Betrag nur Zahlen ein (ohne Punkt & Komma).]]></item>
+    <item name="auction_bid_toofast"><![CDATA[Achtung, Du hast zu schnell für zu viele Items geboten. ita ]]></item>
+    <item name="auction_bid_characters"><![CDATA[Bitte gib als Betrag nur Zahlen ein (ohne Punkt & Komma). ita ]]></item>
     <item name="auction_enable_mail"><![CDATA[Bestätigungsmail aktivieren.]]></item>
     <item name="auction_disable_mail"><![CDATA[Bestätigungsmail deaktivieren.]]></item>
     <item name="auction_mail_label"><![CDATA[Bestätigungsmail]]></item>
