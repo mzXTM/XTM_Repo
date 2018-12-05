@@ -2,7 +2,7 @@
 <resource>
     <item name="auction_bid_invalid"><![CDATA[Gebot ungültig]]></item>
     <item name="auction_bid_credits_to_little"><![CDATA[Für dieses Gebot hast du zu wenig Credits.]]></item>
-    <item name="auction_bid_minBid_not_reached"><![CDATA[Dein Gebot ist zu niedrig. Das neue Gebot muss mindestens %MINIMUM_BID% Credits über dem Letzten liegen.]]></item>
+    <item name="auction_bid_minBid_not_reached"><![CDATA[Dein Gebot ist zu niedrig. zh zh  Das neue Gebot muss mindestens %MINIMUM_BID% Credits über dem Letzten liegen. zh zh zh ]]></item>
     <item name="auction_bid_saved"><![CDATA[Gebot abgegeben]]></item>
     <item name="auction_bid_interstellar"><![CDATA[Gabloten eta miernoten]]></item>
     <item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item>
