@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
  <item name="flashres_xtm_test_key"><![CDATA[XTM Test Key in the file flashres.xml]]></item>
- <item name="no_clan"><![CDATA[Kein Clan]]></item>
+ <item name="no_clan"><![CDATA[Kein Clan GUCCI JAPANANA]]></item>
  <item name="notloggedin"><![CDATA[Bitte neu einloggen]]></item>
  <item name="nohitpoints"><![CDATA[Du hast keine Hitpoints mehr. Repariere Dein Schiff im Hangar oder kauf Dir ein neues Schiff!]]></item>
  <item name="invalid_session"><![CDATA[Leider bist Du nicht mehr eingeloggt. Ab zur Startseite: Log Dich neu ein und Dein Spiel geht weiter!]]></item>
@@ -1148,9 +1148,7 @@
  <item name="httip_spacemap"><![CDATA[Mit dem Sternensystem kannst Du Dich in den Weiten des Universums orientieren. Es zeigt, wie die einzelnen Maps miteinander verbunden sind und wie Du von einer zur anderen reisen kannst.]]></item>
  <item name="httip_ship"><![CDATA[Das Schiff-Fenster enhält alle wichtigen Schiffsinformationen, wie Hitpoints, Nanohüllenstärke, Schild, Laderaum, Lasermunition, Raketen und die akuelle Konfiguration. Mit einem Klick auf die Info wechselst Du zwischen grafischer Leisten-Anzeige und Zahlenwerten.]]></item>
  <item name="httip_user"><![CDATA[Das User-Fenster enhält alle wichtigen Account-Informationen, wie z.B. Erfahrungspunkte, Level, Ehrenpunkte, Credits und Uridium.]]></item>
- <item name="httip_group"><![CDATA[Das Gruppenfenster zeigt aktuelle Informationen zu Deinen Gruppenmitgliedern und aktive Einladungen an.
-Du kannst Einladungen annehmen oder ablehnen oder selbst neue erstellen.
-Nimmst Du eine Einladung an oder jemand nimmt eine Deiner Einladungen an, so trittst Du einer Gruppe bei.]]></item>
+ <item name="httip_group"><![CDATA[Das Gruppenfenster zeigt aktuelle Informationen zu Deinen Gruppenmitgliedern und aktive Einladungen an. Du kannst Einladungen annehmen oder ablehnen oder selbst neue erstellen. Nimmst Du eine Einladung an oder jemand nimmt eine Deiner Einladungen an, so trittst Du einer Gruppe bei.]]></item>
  <item name="httip_pet"><![CDATA[Das P.E.T.-Fenster verschafft Dir einen Überblick über Dein P.E.T.. Die Balken zeigen wichtige Informationen an: seine Hitpoints, die Treibstoffmenge sowie Werte zum Schild und seiner Erfahrung. Aktiviere das P.E.T. über den Play-Button. Daneben tankst Du es auf und rechts wählst Du das Gear aus und aktivierst es.]]></item>
  <item name="splashscreen_text_movement"><![CDATA[Hallo Space-Pilot!\n\nDein Raumschiff befindet sich in der Mitte der Karte. Klicke auf die Karte, um Dein Schiff zu bewegen. Halte die linke Maustaste gedrückt um herumzufliegen.]]></item>
  <item name="splashscreen_text_attack"><![CDATA[Klicke Gegner und Aliens an, so nimmst Du sie ins Visier. Per Klick auf das Munitionssymbol in der Quick-Slot-Leiste feuerst Du auf den Gegner.\n\nMit jedem vernichteten Gegner sammelst Du Erfahrungspunkte. Achte darauf, keine Schiffe Deiner Firma anzugreifen!]]></item>
@@ -1186,15 +1184,15 @@ Nimmst Du eine Einladung an oder jemand nimmt eine Deiner Einladungen an, so tri
  <item name="video_btn_showAll"><![CDATA[Alles zeigen]]></item>
  <item name="video_name_0"><![CDATA[Raumschiff]]></item>
  <item name="tutorial_video_msg_1"><![CDATA[Wir werden in einem angrenzenden Sektor angegriffen! Die Instrumente werden Dich hinführen.<br><br><blue>Folge dem blinkenden Pfeil:</blue> Klicke mit der <blue>linken Maustaste</blue> dahin, wo Dein Schiff hinfliegen soll.<br>Ende.]]></item>
- <item name="tutorial_video_msg_2_1"><![CDATA[Schnell! Zerstöre die drei feindlichen Raumschiffe! <br><br>Wähle sie durch einen <blue>Klick mit der linken Maustaste aus.</blue><br><br>Mit der <blue>Taste [1]</blue> oder dem <blue>Laser-Button in der Quickbar</blue> kannst Du sie angreifen.]]></item>
+ <item name="tutorial_video_msg_2_1"><![CDATA[Schnell! Zerstöre die drei feindlichen Raumschiffe!<br><br>Wähle sie durch einen <blue>Klick mit der linken Maustaste aus.</blue><br><br>Mit der <blue>Taste [1]</blue> oder dem <blue>Laser-Button in der Quickbar</blue> kannst Du sie angreifen.]]></item>
  <item name="tutorial_video_msg_2_2"><![CDATA[Benutze Deine <blue>Raketen</blue>, um Gegner schneller zu zerstören. Mit der <blue>Taste [2]</blue> oder mit einem Klick auf den <blue>Raketen-Button in der Quickbar</blue> feuerst Du jeweils eine Rakete ab.]]></item>
  <item name="tutorial_video_msg_3_1"><![CDATA[Saubere Arbeit, Space-Pilot! Im Kampf trifft Dich auch häufig mal eine Rakete.<br><br>Drücke nun die <blue>Taste [3]</blue> oder den <blue>Reparatur-Roboter Button in der Quickbar,</blue> um Dein Raumschiff zu reparieren.<br><br>Sobald Du das Raumschiff bewegst, stoppt der Roboter die Reparatur.]]></item>
  <item name="tutorial_video_msg_3_2"><![CDATA[Siehst Du die <blue>orange leuchtenden Cargo-Boxen?</blue> Sie beinhalten wertvolle Ressourcen.<br><br><blue>Sammle sie mit einem Klick auf die Box ein.</blue><br><br>Ihren Inhalt siehst Du oben auf dem Bildschirm oder in Deinem Log.]]></item>
  <item name="tutorial_video_msg_4_1"><![CDATA[Gute Arbeit, Space-Pilot! Vernichte unsere Feinde aus dem Orbit. So kommst Du an <blue>Ressourcen und Geld.</blue><br><br>Das Zerstören von Gegnern erhöht Deine <blue>Erfahrung und Deinen Ruhm.</blue> Und das verschafft Dir Zugang zu neuen Galaxien und Karten.]]></item>
  <item name="tutorial_video_msg_4_2"><![CDATA[Begleite Deinen Verbündeten in seinem beschädigten Raumschiff zur <blue>Raumstation</blue>, damit er dort sein Schiff reparieren kann.<br><br><blue>Flieg an das beschädigte Raumschiff heran</blue> und nimm Kontakt zu ihm auf.]]></item>
  <item name="tutorial_video_msg_5"><![CDATA[Danke für die Hilfe, Pilot! Leider habe ich meine Fracht verloren. Nicht weit von hier liegen <blue>3 Prometium, 2 Endurium</blue> und <blue>1 Terbium.</blue><br><br>Bitte sammle sie für mich ein: <blue>Klicke sie einfach an und warte, bis sie im Schiff verstaut sind.</blue>]]></item>
- <item name="tutorial_video_msg_6"><![CDATA[OK! Die Verstärkung ist auch schon eingetroffen. <br><br><blue>Folge uns zum Jump Gate!</blue> Dann fliegen wir zurück zur Station und ich kann dort endlich mein Schiff reparieren.]]></item>
- <item name="tutorial_video_msg_7"><![CDATA[Hier ist das <blue>Jump Gate</blue>, das Dich auf weitere Karten führt. <br><br>Drücke für den Sprung einfach die <blue>Taste [J]</blue> oder <blue>klicke auf den Button mit dem Kreissymbol</blue>.]]></item>
+ <item name="tutorial_video_msg_6"><![CDATA[OK! Die Verstärkung ist auch schon eingetroffen.<br><br><blue>Folge uns zum Jump Gate!</blue> Dann fliegen wir zurück zur Station und ich kann dort endlich mein Schiff reparieren.]]></item>
+ <item name="tutorial_video_msg_7"><![CDATA[Hier ist das <blue>Jump Gate</blue>, das Dich auf weitere Karten führt.<br><br>Drücke für den Sprung einfach die <blue>Taste [J]</blue> oder <blue>klicke auf den Button mit dem Kreissymbol</blue>.]]></item>
  <item name="tutorial_video_msg_8_1"><![CDATA[Endlich in Sicherheit! Die Ressourcen darfst Du behalten.<br><br><blue>Verkaufe sie hier an der Station.</blue> Öffne dafür das Handelsfenster per Klick auf den <blue>Handels-Button oben rechts.</blue>]]></item>
  <item name="tutorial_video_msg_8_2"><![CDATA[Schau Dich mal auf der <blue>Webseite im Hangar</blue> um, dort kannst Du <blue>neue Schiffe</blue> und auch <blue>neue Waffen</blue> kaufen.<br><br>Von nun an bist Du auf Dich allein gestellt, aber wie ich Dich kenne, kommst Du ja gut alleine zurecht.<br><br>Danke nochmals und viel Glück! Ende_]]></item>
  <item name="tutorial_video_msg_8_3"><![CDATA[Danke für Deine Hilfe, Pilot!<br>Du bist neu hier, oder?<br>Dann stell Dich am besten beim <blue>Kontrollzentrum</blue> vor. Sie werden Dir ein paar <blue>Einstiegsmissionen</blue> geben, bei denen Du Dir <blue>tolle Ausrüstung und Waffen</blue> dazuverdienen kannst.<br>Sie erwarten Dich auf der nahegelegenen Station. Ende_]]></item>
@@ -1318,7 +1316,7 @@ Nimmst Du eine Einladung an oder jemand nimmt eine Deiner Einladungen an, so tri
  <item name="achievement_LEVEL_UP_header"><![CDATA[Level-Up-Mission]]></item>
  <item name="achievement_LEVEL_UP_directive"><![CDATA[Erreiche Level 2, indem Du so viele Alien abschießt, bis Du 10.000 Erfahrungspunkte gesammelt hast.]]></item>
  <item name="achievement_LEVEL_UP_reward"><![CDATA[SG3N-B01 Schild-Generator]]></item>
- <item name="achievement_LEVEL_UP_tooltip"><![CDATA[Benutze den Laser ([1] Taste) und die Raketen ([2] Taste) um weitere Aliens zu zerstören oder erledige ein paar Missionen, um genügend Erfahrungspunkte für  Level 2 zu sammeln.]]></item>
+ <item name="achievement_LEVEL_UP_tooltip"><![CDATA[Benutze den Laser ([1] Taste) und die Raketen ([2] Taste) um weitere Aliens zu zerstören oder erledige ein paar Missionen, um genügend Erfahrungspunkte für Level 2 zu sammeln.]]></item>
  <item name="achievement_COLLECT_ORE_header"><![CDATA[Erz-Sammler-Mission]]></item>
  <item name="achievement_COLLECT_ORE_directive"><![CDATA[Sammle 10 Prometium!]]></item>
  <item name="achievement_COLLECT_ORE_reward"><![CDATA[1.000 Uridium]]></item>
@@ -1366,7 +1364,7 @@ Nimmst Du eine Einladung an oder jemand nimmt eine Deiner Einladungen an, so tri
  <item name="startupquest_LEVEL_UP_header"><![CDATA[Level-Up-Mission]]></item>
  <item name="startupquest_LEVEL_UP_directive"><![CDATA[Erreiche Level 2, indem Du so viele Alien abschießt, bis Du 10.000 Erfahrungspunkte gesammelt hast.]]></item>
  <item name="startupquest_LEVEL_UP_reward"><![CDATA[SG3N-B01 Schild-Generator]]></item>
- <item name="startupquest_LEVEL_UP_tooltip"><![CDATA[Benutze den Laser ([1] Taste) und die Raketen ([2] Taste) um weitere Aliens zu zerstören oder erledige ein paar Missionen, um genügend Erfahrungspunkte für  Level 2 zu sammeln.]]></item>
+ <item name="startupquest_LEVEL_UP_tooltip"><![CDATA[Benutze den Laser ([1] Taste) und die Raketen ([2] Taste) um weitere Aliens zu zerstören oder erledige ein paar Missionen, um genügend Erfahrungspunkte für Level 2 zu sammeln.]]></item>
  <item name="startupquest_COLLECT_ORE_header"><![CDATA[Erz-Sammler-Mission]]></item>
  <item name="startupquest_COLLECT_ORE_directive"><![CDATA[Sammle 10 Prometium!]]></item>
  <item name="startupquest_COLLECT_ORE_reward"><![CDATA[1.000 Uridium]]></item>
@@ -1568,8 +1566,7 @@ Nimmst Du eine Einladung an oder jemand nimmt eine Deiner Einladungen an, so tri
  <item name="ttip_AEGIS_SHIELDRECHARGE_skill"><![CDATA[Schild-Reparatur\nSchild-Reparatur, füllt bei Dir und ausgewählten Schiffen die Schild-Energie nach und nach wieder auf.]]></item>
  <item name="ttip_AEGIS_HEALINGPOD_skill"><![CDATA[Reparatur-Einheit\nReparatur-Einheit, erzeugt ein Energiefeld und heilt Dich und Deine Gruppe.]]></item>
  <item name="ttip_CITADEL_DRAWFIRE_skill"><![CDATA[Draw Fire\nMit dieser Fähigkeit lenkst Du temporär das Feuer feindlicher Schiffe in Deiner Umgebung auf Dich.]]></item>
- <item name="ttip_CITADEL_TRAVELMODE_skill"><![CDATA[Travel Mode
-Diese Fähigkeit erhöht kurzzeitig die Geschwindigkeit. So kannst Du Strecken schneller zurücklegen.]]></item>
+ <item name="ttip_CITADEL_TRAVELMODE_skill"><![CDATA[Travel Mode Diese Fähigkeit erhöht kurzzeitig die Geschwindigkeit. So kannst Du Strecken schneller zurücklegen.]]></item>
  <item name="ttip_CITADEL_FORTIFY_skill"><![CDATA[Fortify\nDiese Fähigkeit legt einen schützenden Panzer auf Dein Schiff und verringert den Schaden, den Du nimmst. Sie macht Dich dafür allerdings bewegungsunfähig.]]></item>
  <item name="ttip_CITADEL_PROTECTION_skill"><![CDATA[Protection\nBeim Anwenden dieser Fähigkeit entfaltest Du einen schützenden Schild um Dein Schiff. Er leitet einen Teil des Schadens aller Gruppenmitglieder innerhalb der Reichweite auf Dich um.]]></item>
  <item name="ttip_SPEARHEAD_ULTIMATECLOAKING_skill"><![CDATA[Ultimative Tarnung\nDiese Fähigkeit tarnt Dich, entfernt Dich sogar von der Minimap und verhindert, dass Du anvisiert werden kannst.]]></item>
@@ -1655,8 +1652,7 @@ Diese Fähigkeit erhöht kurzzeitig die Geschwindigkeit. So kannst Du Strecken s
  <item name="msg_pet_no_cargospace_available"><![CDATA[Nicht genügend Frachtraum.]]></item>
  <item name="msg_pet_attack_impossible"><![CDATA[Das P.E.T. kann dieses Ziel nicht angreifen.]]></item>
  <item name="msg_pet_kamikaze-gear_cooldown_ready"><![CDATA[Kamikaze-Gear Cooldown ist abgelaufen.\nGear ist wieder auswählbar.]]></item>
- <item name="msg_pet_friendly_sacrifice-gear_cooldown_ready"><![CDATA[Opfernde Flamme Cooldown ist abgelaufen.
-Opfernde Flamme ist wieder auswählbar.]]></item>
+ <item name="msg_pet_friendly_sacrifice-gear_cooldown_ready"><![CDATA[Opfernde Flamme Cooldown ist abgelaufen. Opfernde Flamme ist wieder auswählbar.]]></item>
  <item name="msg_pet_kamikaze-gear_not_on_start_maps"><![CDATA[Kamikaze-Gear kann auf dieser Map nicht verwendet werden.]]></item>
  <item name="title_request_fuel"><![CDATA[Treibstoff anfordern]]></item>
  <item name="pet_gear_passive_mode_name"><![CDATA[Passiv-Modus]]></item>
@@ -1737,7 +1733,7 @@ Opfernde Flamme ist wieder auswählbar.]]></item>
  <item name="log_msg_gather_rocketlauncher_p"><![CDATA[Du hast %COUNT% Rocketlauncher-Raketen vom Typ %TYPE% erhalten.]]></item>
  <item name="getbonuslas"><![CDATA[Du hast %! Laser-Munition vom Typ %2! erhalten.]]></item>
  <item name="log_msg_gather_laserammo_s"><![CDATA[Du hast einen Schuss Laser-Muniton vom Typ %TYPE% erhalten.]]></item>
- <item name="log_msg_gather_laserammo_p"><![CDATA[Du hast %COUNT% Schuss Laser-Muniton vom Typ %TYPE%  erhalten.]]></item>
+ <item name="log_msg_gather_laserammo_p"><![CDATA[Du hast %COUNT% Schuss Laser-Muniton vom Typ %TYPE% erhalten.]]></item>
  <item name="log_collected_firework"><![CDATA[Du hast %! Feuerwerkskörper vom Typ %2! erhalten.]]></item>
  <item name="log_msg_gather_firework_s"><![CDATA[Du hast einen Feuerwerkskörper vom Typ %TYPE% erhalten.]]></item>
  <item name="log_msg_gather_firework_p"><![CDATA[Du hast %COUNT% Feuerwerkskörper vom Typ %TYPE% erhalten.]]></item>
@@ -2049,8 +2045,7 @@ Opfernde Flamme ist wieder auswählbar.]]></item>
  <item name="title_bannerad_addendum"><![CDATA[Werbung]]></item>
  <item name="epic_msg_achievement_unlocked"><![CDATA[Achievement "%ACH_NAME%" freigeschaltet!]]></item>
  <item name="ttip_menu_droneFormations"><![CDATA[Drohnen-Formationen]]></item>
- <item name="ttip_btn_droneFormation_STD"><![CDATA[Standard-Formation
-Verleiht keine Boni oder Mali.]]></item>
+ <item name="ttip_btn_droneFormation_STD"><![CDATA[Standard-Formation Verleiht keine Boni oder Mali.]]></item>
  <item name="ttip_btn_droneFormation_TURTLE"><![CDATA[Schildwall-Formation\nErhöht den Schildwert um 10%, senkt jedoch den Laser- und Raketenschaden um 7,5%.]]></item>
  <item name="ttip_btn_droneFormation_ARROW"><![CDATA[Pfeil-Formation\nErhöht den Raketenschaden um 20%, senkt jedoch den Laserschaden um 3%.]]></item>
  <item name="ttip_btn_droneFormation_LANCE"><![CDATA[Lanzen-Formation\nErhöht den Minen-Schaden um 50%.]]></item>
@@ -2060,21 +2055,18 @@ Verleiht keine Boni oder Mali.]]></item>
  <item name="ttip_btn_droneFormation_DIAMOND"><![CDATA[Diamant-Formation\nDein Schild regeneriert 1% Deines Maximal-Schildwerts pro Sekunde bis zu einem Maximum von 5.000 pro Sekunde. Jedoch werden die Hitpoints um 30% vermindert.]]></item>
  <item name="ttip_btn_droneFormation_CHEVRON"><![CDATA[Chevron-Formation\nErhöht den Schaden der Raketen um 50%, jedoch werden die Schiffs-Hitpoints um 20% gemindert.]]></item>
  <item name="ttip_btn_droneFormation_MOTH"><![CDATA[Falter-Formation\nIgnoriert 20% der gegnerischen Schildabsorption und leitet den Schaden direkt ans Schiff weiter. Zudem erhöhen sich Deine eigenen Hitpoints um 20%. Jedoch wird Deine Schildstärke mit einer Rate von 1% pro Sekunde geschwächt.]]></item>
- <item name="ttip_btn_droneFormation_CRAB"><![CDATA[Krabben-Formation
-Erhöht Deine Schild-Absorption um 20%, verringert jedoch auch Deine Geschwindigkeit um 20%.]]></item>
+ <item name="ttip_btn_droneFormation_CRAB"><![CDATA[Krabben-Formation Erhöht Deine Schild-Absorption um 20%, verringert jedoch auch Deine Geschwindigkeit um 20%.]]></item>
  <item name="ttip_btn_droneFormation_HEART"><![CDATA[Herz-Formation\nErhöht Deinen Schildwert um 10% und Deine Hitpoints um 20%, verringert jedoch Deinen Laserschaden um 5%.]]></item>
  <item name="ttip_btn_droneFormation_BARRAGE"><![CDATA[Barriere-Formation\nErhöht den Laserschaden gegen NPCs um 5% und gibt 5% mehr Erfahrungspunkte. Deine Schildabsorption wird allerdings um 15% gesenkt.]]></item>
  <item name="ttip_btn_droneFormation_BARRAGE"><![CDATA[Barriere-Formation\nErhöht den Laserschaden gegen NPCs um 5% und gibt 5% mehr Erfahrungspunkte. Deine Schildabsorption wird allerdings um 15% gesenkt.]]></item>
- <item name="ttip_btn_droneFormation_BAT"><![CDATA[Fledermaus-Formation
-Erhöht den verursachten Schaden und die verdienten Erfahrungspunkte bei NPCs um 8%, verringert die Geschwindigkeit um 15%.]]></item>
+ <item name="ttip_btn_droneFormation_BAT"><![CDATA[Fledermaus-Formation Erhöht den verursachten Schaden und die verdienten Erfahrungspunkte bei NPCs um 8%, verringert die Geschwindigkeit um 15%.]]></item>
  <item name="ttip_btn_droneFormation_RING"><![CDATA[Ring-Formation\n-50% Laserschaden\n+180% Schildwert]]></item>
  <item name="ttip_btn_droneFormation_DRILL"><![CDATA[Bohrer-Formation\n-50% Schildwert und Schild-Absorbation\n+50% Laserschaden]]></item>
  <item name="ttip_btn_droneFormation_VETERAN"><![CDATA[Veteran Formation\n-20% Laserschaden, Schildwert und Hitpoints\n+50% Ehre]]></item>
  <item name="ttip_btn_droneFormation_DOME"><![CDATA[Kuppel Formation\n-25% Geschwindigkeit\n+10% Schildwert und dein Schild bekommt 100% Schadensabsorption]]></item>
  <item name="ttip_btn_droneFormation_DOUBLE_WHEEL"><![CDATA[Doppel Rad Formation\n-15% Laserschaden\n+10% Geschwindigkeit]]></item>
  <item name="ttip_btn_droneFormation_X"><![CDATA[X Formation\n-30% Hitpoints\n+100% Raketenschaden (für standard Raketen und Raketenwerfer Raketen)]]></item>
- <item name="ttip_btn_droneFormation_WAVY"><![CDATA[Wellen Formation
-Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]></item>
+ <item name="ttip_btn_droneFormation_WAVY"><![CDATA[Wellen Formation Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]></item>
  <item name="ttip_btn_droneFormation_not_enough_drones"><![CDATA[Du benötigst mindestens %COUNT% Drohnen für den Einsatz dieser Formation!]]></item>
  <item name="msg_switchship_success"><![CDATA[Du hast Dein Schiff erfolgreich gewechselt.]]></item>
  <item name="msg_swnotallowed_map"><![CDATA[Warp-Prozess nicht möglich auf dieser Karte.]]></item>
@@ -2463,9 +2455,7 @@ Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]><
  <item name="tdm_popup_match_ended_message"><![CDATA[Das Spiel ist bereits beendet.]]></item>
  <item name="tdm_popup_no_match_for_faction_title"><![CDATA[Kein Spiel für Fraktion.]]></item>
  <item name="tdm_popup_no_match_for_faction_message"><![CDATA[Es existiert kein Spiel für diese Fraktion.]]></item>
- <item name="tdm_result_msg"><![CDATA[Team-Deathmatch:
-%WINNER% hat %LOSER% mit %POINTS_WINNER% zu %POINTS_LOSER% geschlagen.
- Das Spiel hat %TIME% gedauert. ]]></item>
+ <item name="tdm_result_msg"><![CDATA[Team-Deathmatch: %WINNER% hat %LOSER% mit %POINTS_WINNER% zu %POINTS_LOSER% geschlagen. Das Spiel hat %TIME% gedauert. ]]></item>
  <item name="friendlyfire_disabled"><![CDATA[Teambeschuss ist ausgeschaltet]]></item>
  <item name="tdm_status_event_headline"><![CDATA[Team-Deathmatch Status:]]></item>
  <item name="tdm_status_lives_remaining"><![CDATA[Leben:]]></item>
@@ -2486,10 +2476,7 @@ Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]><
  <item name="ttip_sector_control_beacon"><![CDATA[Klicke hier um das Sector Control Matchmaking zu öffnen.]]></item>
  <item name="ttip_tdm_beacon"><![CDATA[Klicke hier um das Team Deathmatch Matchmaking zu öffnen.]]></item>
  <item name="low_performance_pepper_flash_player_header"><![CDATA[Wie deaktiviere ich den Pepper Flash Player]]></item>
- <item name="text_pepper_flash_player_fix"><![CDATA[1.	Öffne Chrome mit der URL chrome://plugins/ 
-2.	Klicke auf ‘Details’
-3.	Unter PepperFlash klicke auf 'Deaktivieren'
-4.	Starte den Browser neu]]></item>
+ <item name="text_pepper_flash_player_fix"><![CDATA[1. Öffne Chrome mit der URL chrome://plugins/ 2. Klicke auf ‘Details’ 3. Unter PepperFlash klicke auf 'Deaktivieren' 4. Starte den Browser neu]]></item>
  <item name="btn_lable_fix_it"><![CDATA[Zeig mir wie!]]></item>
  <item name="notification_low_performance_pepper_flash_player"><![CDATA[Es ist möglich, dass Dein Flash Player die Spielperformance beeinträchtigt. Dies kann man allerdings leicht beheben.]]></item>
  <item name="pusher_info_less_reward"><![CDATA[Du bekommst weniger Beute von %NAME%, da er zu schwach für dich ist!]]></item>
@@ -2608,11 +2595,11 @@ Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]><
  <item name="gameentry_hintwindow_message_unknown_dangers_eic"><![CDATA[Ausgezeichnet! EIC belohnt Dich für Deine Leistungen mit einem Premium-Status, aber täusche Dich nicht: Die letzte Angriffswelle wurde nicht von einem Sibelon angeführt! Du wirst zittern, wenn der erste auf Deinem Schirm auftaucht. Bereite Dich gut auf die Flüge in den Orbit vor – der wirkliche Krieg liegt dort!]]></item>
  <item name="gameentry_hintwindow_message_unknown_dangers_vru"><![CDATA[Glückwunsch! VRU belohnt Dich für Deine Leistungen im Kampf gegen die Aliengefahr mit einem Premium-Status, aber werde nicht übermütig! Noch bist Du unseren Erzfeinden, den Sibelon nicht begegnet. Verbessere Deine Fähigkeiten, bevor Du tiefer in den Orbit vorstößt. Die wirkliche Herausforderung liegt dort!]]></item>
  <item name="gameentry_hintwindow_title_attack"><![CDATA[Der Kampf]]></item>
- <item name="gameentry_hintwindow_message_attack_mmo"><![CDATA[Die Grundlagen des Angriffs sind überlebenswichtig: Visiere einen Gegner durch Mausklick an. <font color="%marked_yellow%">Aktiviere die Laser</font>, indem Du einmal <font color="%marked_yellow%">Taste 1</font> auf der Tastatur drückst. Drücke sie erneut, um den Angriff abzubrechen. Um eine <font color="%marked_yellow%">Rakete abzufeuern</font>, drücke <font color="%marked_yellow%">Taste 2</font>.]]></item>
- <item name="gameentry_hintwindow_message_attack_eic"><![CDATA[Jeder muss die Grundlagen des Angriffs perfekt beherrschen: Visiere einen Gegner durch Mausklick an. <font color="%marked_yellow%">Aktiviere die Laser</font>, indem Du einmal <font color="%marked_yellow%">Taste 1</font> auf der Tastatur drückst. Drücke sie erneut, um den Angriff abzubrechen. Um eine <font color="%marked_yellow%">Rakete abzufeuern</font>, drücke <font color="%marked_yellow%">Taste 2</font>.]]></item>
- <item name="gameentry_hintwindow_message_attack_vru"><![CDATA[Ich zeig Dir die Grundlagen des Angriffs. Es ist wirklich einfach: Visiere einen Gegner durch Mausklick an. <font color="%marked_yellow%">Aktiviere die Laser</font>, indem Du einmal <font color="%marked_yellow%">Taste 1</font> auf der Tastatur drückst. Drücke sie erneut, um den Angriff abzubrechen. Um eine <font color="%marked_yellow%">Rakete abzufeuern</font>, drücke <font color="%marked_yellow%">Taste 2</font>.]]></item>
+ <item name="gameentry_hintwindow_message_attack_mmo"><![CDATA[Die Grundlagen des Angriffs sind überlebenswichtig: Visiere einen Gegner durch Mausklick an.<font color="%marked_yellow%">Aktiviere die Laser</font>, indem Du einmal <font color="%marked_yellow%">Taste 1</font> auf der Tastatur drückst. Drücke sie erneut, um den Angriff abzubrechen. Um eine <font color="%marked_yellow%">Rakete abzufeuern</font>, drücke <font color="%marked_yellow%">Taste 2</font>.]]></item>
+ <item name="gameentry_hintwindow_message_attack_eic"><![CDATA[Jeder muss die Grundlagen des Angriffs perfekt beherrschen: Visiere einen Gegner durch Mausklick an.<font color="%marked_yellow%">Aktiviere die Laser</font>, indem Du einmal <font color="%marked_yellow%">Taste 1</font> auf der Tastatur drückst. Drücke sie erneut, um den Angriff abzubrechen. Um eine <font color="%marked_yellow%">Rakete abzufeuern</font>, drücke <font color="%marked_yellow%">Taste 2</font>.]]></item>
+ <item name="gameentry_hintwindow_message_attack_vru"><![CDATA[Ich zeig Dir die Grundlagen des Angriffs. Es ist wirklich einfach: Visiere einen Gegner durch Mausklick an.<font color="%marked_yellow%">Aktiviere die Laser</font>, indem Du einmal <font color="%marked_yellow%">Taste 1</font> auf der Tastatur drückst. Drücke sie erneut, um den Angriff abzubrechen. Um eine <font color="%marked_yellow%">Rakete abzufeuern</font>, drücke <font color="%marked_yellow%">Taste 2</font>.]]></item>
  <item name="gameentry_hintwindow_title_fullcargobox"><![CDATA[Dein Cargo ist voll]]></item>
- <item name="gameentry_hintwindow_message_fullcargobox_mmo"><![CDATA[Dein Laderaum ist bis obenhin voll. Du kannst deine Erze in der Raffinerie an deiner Heimatbasis verkaufen oder sie über das Menü am unteren Rand selber raffinieren  und zu wertvolleren Rohstoffen aufwerten.]]></item>
+ <item name="gameentry_hintwindow_message_fullcargobox_mmo"><![CDATA[Dein Laderaum ist bis obenhin voll. Du kannst deine Erze in der Raffinerie an deiner Heimatbasis verkaufen oder sie über das Menü am unteren Rand selber raffinieren und zu wertvolleren Rohstoffen aufwerten.]]></item>
  <item name="gameentry_hintwindow_message_fullcargobox_eic"><![CDATA[Dein Laderaum ist bis obenhin voll. Du kannst deine Erze in der Raffinerie an deiner Heimatbasis verkaufen oder sie über das Menü am unteren Rand selber raffinieren und zu wertvolleren Rohstoffen aufwerten.]]></item>
  <item name="gameentry_hintwindow_message_fullcargobox_vru"><![CDATA[Dein Laderaum ist bis obenhin voll. Du kannst deine Erze in der Raffinerie an deiner Heimatbasis verkaufen oder sie über das Menü am unteren Rand selber raffinieren und zu wertvolleren Rohstoffen aufwerten.]]></item>
  <item name="targeted_hintwindow_title_auction_house"><![CDATA[Auktionshaus]]></item>
@@ -2885,9 +2872,9 @@ Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]><
  <item name="ttip_setting_quality_zones3D"><![CDATA[Definiert die Qualität und den Detailgrad von Hindernissen (z.B. Trümmer, Schrott).]]></item>
  <item name="client_selection_3d"><![CDATA[3D]]></item>
  <item name="client_selection_2d"><![CDATA[Nein danke. Ich spiele weiterhin die 2D-Version.]]></item>
- <item name="client_selection_info"><![CDATA[Versuch‘s mal in 3D! <font color="#fbcc00">Der neue 3D-Client ist da.</font> Update Deinen Grafikkartentreiber und Deinen Flash Player. Außerdem musst Du die Hardwarebeschleunigung aktivieren. (Rechtsklick -> Einstellungen)<br/><br/>Spiele jetzt in 3D und werde zum einzigartigen <font color="#fbcc00">"Multi-Dimensional Pilot"!</font>]]></item>
+ <item name="client_selection_info"><![CDATA[Versuch‘s mal in 3D!<font color="#fbcc00">Der neue 3D-Client ist da.</font> Update Deinen Grafikkartentreiber und Deinen Flash Player. Außerdem musst Du die Hardwarebeschleunigung aktivieren. (Rechtsklick -> Einstellungen)<br/><br/>Spiele jetzt in 3D und werde zum einzigartigen <font color="#fbcc00">"Multi-Dimensional Pilot"!</font>]]></item>
  <item name="client_selection_headline"><![CDATA[DarkOrbit ist jetzt 3D!]]></item>
- <item name="ttip_3d_not_available"><![CDATA[3D ist aus einem der folgenden Gründe nicht verfügbar: Deine Flash-Player-Version ist nicht aktuell,  Deine Grafikkarte wird nicht unterstützt, oder die Hardwarebeschleunigung ist deaktiviert.]]></item>
+ <item name="ttip_3d_not_available"><![CDATA[3D ist aus einem der folgenden Gründe nicht verfügbar: Deine Flash-Player-Version ist nicht aktuell, Deine Grafikkarte wird nicht unterstützt, oder die Hardwarebeschleunigung ist deaktiviert.]]></item>
  <item name="client_selection_faq"><![CDATA[Erfahre mehr über die 3D Version und die Systemvoraussetzungen]]></item>
  <item name="client_selection_faq_link"><![CDATA[http://de.bigpoint.com/darkorbit/board/threads/3d-faq.101556/ ]]></item>
  <item name="client_selection_info_no_3d"><![CDATA[DarkOrbit in der dritten Dimension erleben - <font color="#fbcc00">der neue 3D-Client ist verfügbar!</font> Aus technischen Gründen ist Dein PC nicht in der Lage, das volle Potenzial der neuen Version zu nutzen. Stelle sicher, dass Grafikkartentreiber und Flash-Player auf dem neuesten Stand sind und die Hardwarebeschleunigung aktiviert ist.<br/><br/>Sobald Dein PC bereit ist, kann es losgehen.]]></item>
@@ -2919,9 +2906,9 @@ Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]><
  <item name="keyboard_action_show_pro_action_bar"><![CDATA[Pro-Aktionsleiste anzeigen/ausblenden]]></item>
  <item name="streuner_gate_narrative_map1"><![CDATA[Achtung, an alle Streuner im Kuipergürtel! Wir werden angegriffen! Das ist keine Übung. Bereitmachen für Verteidigungsmaßnahmen – Code 1701 Delta! ]]></item>
  <item name="streuner_gate_narrative_map2"><![CDATA[Ich weiß nicht, wer Du bist, Fremdling, aber lass uns reden. Von Mensch zu Mensch. Hat die Angst Dich stumm gemacht? Sei nicht deprimiert, meine Soldiers Furcht und Schrecken haben diese Wirkung! ]]></item>
- <item name="streuner_gate_narrative_map3"><![CDATA[Was genau willst Du hier beweisen? Geht es Dir um Ruhm? Um Credits? Ich warne Dich, wir Streuner halten zusammen und verteidigen auch die, die uns diesen Ärger eingebrockt haben!  ]]></item>
+ <item name="streuner_gate_narrative_map3"><![CDATA[Was genau willst Du hier beweisen? Geht es Dir um Ruhm? Um Credits? Ich warne Dich, wir Streuner halten zusammen und verteidigen auch die, die uns diesen Ärger eingebrockt haben! ]]></item>
  <item name="streuner_gate_narrative_map4"><![CDATA[Siehst Du diese Turrets? Vielleicht erkennst Du ihr Design. Ein Geschenk von unseren ach so hochverehrten Gönnern! Ein Streuner kann sich seine Verbündeten nicht aussuchen. ]]></item>
- <item name="streuner_gate_narrative_map5_1"><![CDATA[Das ist Deine letzte Warnung! Kehr um, oder trag die Konsequenzen. Wir werden unser Heim bis zum letzten Streuner verteidigen!  ]]></item>
+ <item name="streuner_gate_narrative_map5_1"><![CDATA[Das ist Deine letzte Warnung! Kehr um, oder trag die Konsequenzen. Wir werden unser Heim bis zum letzten Streuner verteidigen! ]]></item>
  <item name="emperor_streuner_speech_streuner_gate"><![CDATA[Erreet Falard an Schiff unbekannter Kennung: Du hast es nicht anders gewollt - Streuner, zu mir! Um diesen Firmen-Schoßhund kümmere ich mich persönlich! ]]></item>
  <item name="emperor_sibelon_speech_streuner_gate"><![CDATA[Erreets Flotte löst sich auf – die Streuner waren hilfreich, solange sie kooperierten, aber Menschendreck bleibt eben Menschendreck.<br />Was, Du willst Dich mit mir anlegen? Komm nur, Ungeziefer! ]]></item>
  <item name="log_msg_gg_completed_streuner"><![CDATA[Galaxy Gate Kuiper geschafft.]]></item>
@@ -2931,7 +2918,7 @@ Protze mit der Wellen Formation, diese Drohnen wissen wie sie sich bewegen!)]]><
  <item name="assembly_button_collect"><![CDATA[Abholen]]></item>
  <item name="assembly_build_not_possible_unique_max"><![CDATA[Herstellung nicht möglich! Du besitzt bereits die maximale Anzahl des gewählten Items.]]></item>
  <item name="assembly_item_tooltip_shop"><![CDATA[Hol Dir die fehlenden Ressourcen im Shop!]]></item>
- <item name="assembly_build_unavailable"><![CDATA[Das Montagewerk befindet sich gerade im Leerlauf. Beschaffe die benötigten Ressourcen, um Schiffe, Ausrüstung und weitere Items herzustellen!  ]]></item>
+ <item name="assembly_build_unavailable"><![CDATA[Das Montagewerk befindet sich gerade im Leerlauf. Beschaffe die benötigten Ressourcen, um Schiffe, Ausrüstung und weitere Items herzustellen! ]]></item>
  <item name="assembly_build_crafting_item"><![CDATA[%item% wird hergestellt. Bitte warten! ]]></item>
  <item name="assembly_recipe_available_time"><![CDATA[Bereit in: %time%]]></item>
  <item name="log_message_assembly_new_items"><![CDATA[Ein neues Item ist im Montagewerk erhältlich: %item%]]></item>
