@@ -1,0 +1,98 @@
+﻿{
+	"en-us": {
+		"logged-in": {
+			"leadin_text": {
+				"comment": "",
+				"value": "You have successfully signed in."
+			},
+			"welcome_back": {
+				"comment": "",
+				"value": "Welcome back "
+			}
+		},
+		"login": {
+			"alt_facebook": {
+				"comment": "",
+				"value": "Sign in with Facebook"
+			},
+			"alt_google": {
+				"comment": "",
+				"value": "Sign in with Google"
+			},
+			"email_field": {
+				"comment": "",
+				"value": "Email"
+			},
+			"error_account_locked": {
+				"comment": "",
+				"value": "Account Locked"
+			},
+			"error_invalid_email": {
+				"comment": "",
+				"value": "Invalid email"
+			},
+			"error_invalid_email_or_password": {
+				"comment": "",
+				"value": "Wrong email or password"
+			},
+			"error_invalid_password": {
+				"comment": "",
+				"value": "The password must have at least 8 characters."
+			},
+			"error_login_required": {
+				"comment": "",
+				"value": "Please login and you will be redirected to your original request."
+			},
+			"error_server": {
+				"comment": "",
+				"value": "Server error—please try again"
+			},
+			"error_user_not_found": {
+				"comment": "",
+				"value": "User not found"
+			},
+			"forgot_password": {
+				"comment": "",
+				"value": "Forgot Password?"
+			},
+			"haglofs": {
+				"title": {
+					"comment": "",
+					"value": "Häglofsignin"
+				}
+			},
+			"helptext_password_requirements": {
+				"comment": "",
+				"value": "The password must have at least 8 characters."
+			},
+			"login_button": {
+				"comment": "",
+				"value": "Sign In"
+			},
+			"need_account": {
+				"comment": "",
+				"value": "Need an account?"
+			},
+			"or": {
+				"comment": "",
+				"value": "Or"
+			},
+			"password_field": {
+				"comment": "",
+				"value": "Password"
+			},
+			"remember_me_checkbox": {
+				"comment": "",
+				"value": "Remember Me"
+			},
+			"sign_up": {
+				"comment": "",
+				"value": "Sign Up"
+			},
+			"title": {
+				"comment": "",
+				"value": "Sign In"
+			}
+		}
+	}
+}
