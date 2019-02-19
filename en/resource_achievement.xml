@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="label_achievement_score"><![CDATA[ACHIEVEMENT POINTS]]></item>
+ <item name="label_achievement_score_long"><![CDATA[Achievement Points]]></item>
+ <item name="label_achievement_progress"><![CDATA[Running]]></item>
+ <item name="label_achievement_progress_long"><![CDATA[Running]]></item>
+ <item name="achievement_event_easter-eggs-minimap-ping_5_name"><![CDATA[So Ping Me Maybe]]></item>
+ <item name="achievement_event_easter-eggs-minimap-ping_5_description"><![CDATA[Seek, and ye shall find.]]></item>
+ <item name="title_achievement_event_easter-eggs-minimap-ping"><![CDATA[So Ping Me Maybe]]></item>
+ <item name="achievement_event_easter-eggs-going-round-the-map_5_name"><![CDATA[Tour de Wormhole]]></item>
+ <item name="achievement_event_easter-eggs-going-round-the-map_5_description"><![CDATA[Seek, and ye shall find.]]></item>
+ <item name="achievement_event_easter-eggs-galaxy-gate-firework_5_name"><![CDATA[Deep-Space Pyrotechnician]]></item>
+ <item name="achievement_event_easter-eggs-galaxy-gate-firework_5_description"><![CDATA[Seek, and ye shall find.]]></item>
+ <item name="title_achievement_event_easter-eggs-galaxy-gate-firework"><![CDATA[Deep-Space Pyrotechnician]]></item>
+ <item name="achievement_event_easter-eggs-rainbow-laser_5_name"><![CDATA[What Does It Mean??]]></item>
+ <item name="achievement_event_easter-eggs-rainbow-laser_5_description"><![CDATA[Seek, and ye shall find.]]></item>
+ <item name="title_achievement_event_easter-eggs-rainbow-laser"><![CDATA[What Does It Mean??]]></item>
+
+    <item name="title_trainingarena_the-blizzard"><![CDATA[The Blizzard]]></item>
+    <item name="title_trainingarena_champion"><![CDATA[Current Arena Champion]]></item>
+    <item name="title_trainingarena_early-warrior"><![CDATA[Pre-Season Warrior]]></item>
+    <item name="title_trainingarena_early-champion"><![CDATA[Pre-Season Champion]]></item>
+    <item name="achievement_trainingarena_season-bronze_5_name"><![CDATA[Bronze Medalist]]></item>
+    <item name="achievement_trainingarena_season-bronze_5_description"><![CDATA[This player ranked third in an Ultimate Battle Arena season.]]></item>
+    <item name="title_achievement_trainingarena_season-bronze"><![CDATA[Bronze Medalist]]></item>
+    <item name="achievement_trainingarena_season-silver_5_name"><![CDATA[Silver Medalist]]></item>
+    <item name="achievement_trainingarena_season-silver_5_description"><![CDATA[This player ranked second in an Ultimate Battle Arena season.]]></item>
+    <item name="title_achievement_trainingarena_season-silver"><![CDATA[Silver Medalist]]></item>
+    <item name="achievement_trainingarena_season-gold_5_name"><![CDATA[Gold Medalist]]></item>
+    <item name="achievement_trainingarena_season-gold_5_description"><![CDATA[This player ranked first in an Ultimate Battle Arena season!]]></item>
+    <item name="title_achievement_trainingarena_season-gold"><![CDATA[Gold Medalist]]></item>
+    <item name="achievement_trainingarena_season-warrior_5_name"><![CDATA[Warrior]]></item>
+    <item name="achievement_trainingarena_season-warrior_5_description"><![CDATA[This player ranked between 31st and 50th in an Ultimate Battle Arena season.]]></item>
+    <item name="title_achievement_trainingarena_season-warrior"><![CDATA[Warrior]]></item>
+    <item name="achievement_trainingarena_season-veteran_5_name"><![CDATA[Veteran]]></item>
+    <item name="achievement_trainingarena_season-veteran_5_description"><![CDATA[This player ranked between 11th and 30th in an Ultimate Battle Arena season.]]></item>
+    <item name="title_achievement_trainingarena_season-veteran"><![CDATA[Veteran]]></item>
+    <item name="achievement_trainingarena_season-elite_5_name"><![CDATA[Elite]]></item>
+    <item name="achievement_trainingarena_season-elite_5_description"><![CDATA[This player ranked between 4th and 10th in an Ultimate Battle Arena season.]]></item>
+    <item name="title_achievement_trainingarena_season-elite"><![CDATA[Elite]]></item>
+	<item name="title_trainingarena_early-elite"><![CDATA[Pre-Season Elite]]></item>
+	<item name="title_tr-tournament-champion"><![CDATA[Champion]]></item>
+	<item name="title_tr-tournament-champions"><![CDATA[Champions of Turkey]]></item>
+
+    <item name="title_pirateHunt-champions"><![CDATA[Pirate Exterminator]]></item>
+	<item name="title_pirateHunt-hunter"><![CDATA[Savage Privateer]]></item>
+
+    <item name="title_pirateRaid-champion"><![CDATA[Raid Warlord]]></item>
+    <item name="title_pirateRaid-raider"><![CDATA[Raid Battler]]></item>
+
+	<item name="title_achievement_event_domination_reoccurring-cubikon-gravekeeper"><![CDATA[Cubikon Killer]]></item>
+	<item name="title_achievement_event_domination_reoccurring-unstoppable-force"><![CDATA[Annihilator Assassin]]></item>
+	<item name="title_achievement_event_domination_reoccurring-immoveable-object"><![CDATA[Saboteur Slayer]]></item>
+	<item name="title_achievement_event_domination_reoccurring-hidden-hunter"><![CDATA[Uber Overkill]]></item>
+	<item name="title_achievement_event_domination_reoccurring-lord-of-dead"><![CDATA[Enemy Exterminator]]></item>
+
+    <item name="achievement_event_wildpet-kill-wildpet1_1_name"><![CDATA[Exterminator]]></item>
+    <item name="achievement_event_wildpet-kill-wildpet1_1_description"><![CDATA[Defeat 100 P.E.T. Scouts]]></item>
+    <item name="achievement_event_wildpet-kill-wildpet10_1_name"><![CDATA[Trapper]]></item>
+    <item name="achievement_event_wildpet-kill-wildpet10_1_description"><![CDATA[Defeat 100 P.E.T. Destroyers]]></item>
+    <item name="achievement_event_wildpet-kill-wildpetboss_1_name"><![CDATA[Big Game Hunter]]></item>
+    <item name="achievement_event_wildpet-kill-wildpetboss_1_description"><![CDATA[Defeat an Alpha P.E.T]]></item>
+    <item name="achievement_event_wildpet-quests-high_1_name"><![CDATA[Fierce Hunter]]></item>
+    <item name="achievement_event_wildpet-quests-high_1_description"><![CDATA[Complete all difficult missions in “Attack of the Killer P.E.T.s.”]]></item>
+    <item name="achievement_event_wildpet-quests-low_1_name"><![CDATA[Hunter]]></item>
+    <item name="achievement_event_wildpet-quests-low_1_description"><![CDATA[Complete all easy missions in “Attack of the Killer P.E.T.s.”]]></item>
+
+    <item name="achievement_social_beacon-keeper_5_name"><![CDATA[Beacon Light]]></item>
+    <item name="achievement_social_beacon-keeper_5_description"><![CDATA[Equip at least one Beacon Drone Design]]></item>
+	<item name="title_achievement_beacon-keeper"><![CDATA[Beacon Light]]></item>
+
+    <item name="achievement_misc_galaxy-gate-streuner_1_name"><![CDATA[I See Dead Streuners]]></item>
+    <item name="achievement_misc_galaxy-gate-streuner_1_description"><![CDATA[Complete the Kuiper Galaxy Gate]]></item>
+
+    <item name="achievement_event_halloween2015-challenge_1_name"><![CDATA[Terror's Master]]></item>
+    <item name="achievement_event_halloween2015-challenge_1_description"><![CDATA[When the event ends, be in first place for the challenge mission.]]></item>
+    <item name="title_achievement_event_halloween2015-challenge"><![CDATA[Terror's Master]]></item>
+    <item name="achievement_event_halloween2015-kill-drones_1_name"><![CDATA[Demon Hunter]]></item>
+    <item name="achievement_event_halloween2015-kill-drones_1_description"><![CDATA[Kill 4 Demon Drones.]]></item>
+    <item name="title_achievement_event_halloween2015-kill-drones"><![CDATA[Demon Hunter]]></item>
+    
+    <item name="title_achievement_assembly_item-crafting-1"><![CDATA[Assembly Neophyte]]></item>
+    <item name="achievement_assembly_item-crafting_1_name"><![CDATA[Assembly Neophyte]]></item>
+    <item name="achievement_assembly_item-crafting_1_description"><![CDATA[Assemble two different items from the Build menu.]]></item>
+    <item name="title_achievement_assembly_item-crafting-2"><![CDATA[Assembly Tinkerer]]></item>
+    <item name="achievement_assembly_item-crafting_2_name"><![CDATA[Assembly Tinkerer]]></item>
+    <item name="achievement_assembly_item-crafting_2_description"><![CDATA[Assemble four different items from the Build menu.]]></item>   
+
+	<item name="title_achievement_event_spacecup-2016_champion"><![CDATA[Space Cup 2016 Champion]]></item>
+	<item name="title_achievement_event_spacecup-2016_scorer"><![CDATA[Space Cup 2016 MVP]]></item>
+
+    <item name="title_spaceCup_france"><![CDATA[European Champion]]></item>
+    <item name="title_spaceCup_turkey"><![CDATA[European Runner-Up]]></item>
+
+    <item name="title_anniversary_solar-rookie"><![CDATA[Solar Rookie]]></item>
+    <item name="title_anniversary_asteroid-aviator"><![CDATA[Asteroid Aviator]]></item>
+    <item name="title_anniversary_meteor-jockey"><![CDATA[Meteor Jockey]]></item>
+    <item name="title_anniversary_star-skimmer"><![CDATA[Star Skimmer]]></item>
+    <item name="title_anniversary_stellar-flier"><![CDATA[Stellar Flier]]></item>
+    <item name="title_anniversary_starfire-eagle"><![CDATA[Starfire Eagle]]></item>
+    <item name="title_anniversary_nebular-navigator"><![CDATA[Nebula Navigator]]></item>
+    <item name="title_anniversary_void-stormer"><![CDATA[Void Stormer]]></item>
+    <item name="title_anniversary_cosmic-hotshot"><![CDATA[Cosmic Hotshot]]></item>
+    <item name="title_anniversary_galactic-ace"><![CDATA[Galactic Ace]]></item>
+
+    <item name="achievement_event_domination-quest-lord-of-dead_1_name"><![CDATA[Enemy Exterminator]]></item>
+    <item name="achievement_event_domination-quest-lord-of-dead_1_description"><![CDATA[Take the mission: Eradication and destroy 10,000 enemy Player ships in PvP to receive this achievement.]]></item>
+    <item name="achievement_event_domination-quest-cubikon-gravekeeper_1_name"><![CDATA[Cubikon Killer]]></item>
+    <item name="achievement_event_domination-quest-cubikon-gravekeeper_1_description"><![CDATA[Take the mission: Gleaning the Cube and destroy 3500 Cubikon to receive this achievement.]]></item>
+    <item name="achievement_event_domination-quest-hidden-hunter_1_name"><![CDATA[Uber Overkiller]]></item>
+    <item name="achievement_event_domination-quest-hidden-hunter_1_description"><![CDATA[Take the mission: Unlimited Uber and destroy 250 Uber Protegit to receive this achievement.]]></item>
+    <item name="achievement_event_domination-quest-immoveable-object_1_name"><![CDATA[Saboteur Slayer]]></item>
+    <item name="achievement_event_domination-quest-immoveable-object_1_description"><![CDATA[Take the mission Silent Sabotage and destroy 17,500 Saboteur to receive this achievement.]]></item>
+    <item name="achievement_event_domination-quest-unstoppable-force_1_name"><![CDATA[Annihilator Assassin]]></item>
+    <item name="achievement_event_domination-quest-unstoppable-force_1_description"><![CDATA[Take the mission Annihilation Anthem and destroy 10,500 Annihilator to receive this achievement.]]></item>
+
+</resource>

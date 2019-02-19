@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="happy_hour"><![CDATA[<strong>You've fought valiantly, pilot!</strong><br />Now sit back, relax, and gather your strength.<br />
+    We've got just the thing: a<strong> Happy Hour, from now until the next time the minute hand stands at 12!</strong><br />BOGO uridium - 2 for 1<br /><strong> get twice the uridium for the regular price</strong><br /> (using any payment option except a bank transfer)!<br /><strong>Get your hands on </strong> 60,000 Uridium instead of just
+    <strong>30,000 Uridium</strong>, for example!<br /><br />Blast off into the next battle fully charged!]]></item>
+    <item name="history_deal-frostDrone10"><![CDATA[10 Hailstorm Drones Design purchased]]></item>
+    <item name="history_deal-phantomGreenS"><![CDATA[Poison Phantom Drone Design purchased]]></item>
+    <item name="history_deal-phantomGreenL"><![CDATA[10 Poison Phantom Drones Design purchased]]></item>
+    <item name="history_deal-phantomRedS"><![CDATA[Blaze Phantom Drone Design purchased]]></item>
+    <item name="history_deal-phantomRedL"><![CDATA[10 Blaze Phantom Drones Design purchased]]></item>
+    <item name="history_deal-phantomOrangeS"><![CDATA[Sandstorm Phantom Drone Design purchased]]></item>
+    <item name="history_deal-phantomOrangeL"><![CDATA[10 Sandstorm Phantom Drones Design purchased]]></item>
+
+    <item name="history_deal-obsidianPremiumMar"><![CDATA[Premium Obsidian Microchip Pack purchased]]></item>
+    <item name="history_deal-obsidianPlatinMar"><![CDATA[Platinum Obsidian Microchip Pack purchased]]></item>
+
+    <item name="history_deal-keyCopper"><![CDATA[You purchased 5 Obsidian Microchips]]></item>
+    <item name="history_deal-keyBronze"><![CDATA[You purchased 10 Obsidian Microchips]]></item>
+    <item name="history_deal-keySilver"><![CDATA[You purchased 20 Obsidian Microchips]]></item>
+    <item name="history_deal-keyGold"><![CDATA[You purchased 40 Obsidian Microchips]]></item>
+    <item name="history_deal-keyPlatinum"><![CDATA[You purchased 71 Obsidian Microchips]]></item>
+    <item name="history_deal-keyDiamond"><![CDATA[You purchased 155 Obsidian Microchips]]></item>
+
+    <item name="history_deal-plagueBoosterDrop"><![CDATA[You purchased a Special Probability Booster]]></item>
+    <item name="history_deal-plagueBoosterReward"><![CDATA[You purchased a Special Benefit Booster]]></item>
+    <item name="history_deal-plagueBoosterCombi"><![CDATA[You purchased a Special Combo Booster]]></item>
+
+    <item name="history_package_masqueKey-copper"><![CDATA[You purchased 5 Apocalypse Booty Keys]]></item>
+    <item name="history_package_masqueKey-bronze"><![CDATA[You purchased 10 Apocalypse Booty Keys]]></item>
+    <item name="history_package_masqueKey-silver"><![CDATA[You purchased 20 Apocalypse Booty Keys]]></item>
+    <item name="history_package_masqueKey-gold"><![CDATA[You purchased 40 Apocalypse Booty Keys]]></item>
+    <item name="history_package_masqueKey-platin"><![CDATA[You purchased 71 Apocalypse Booty Keys]]></item>
+    <item name="history_package_masqueKey-diamond"><![CDATA[You purchased 155 Apocalypse Booty Keys]]></item>
+    <item name="history_deal-tr-charityMarch2017"><![CDATA[You purchased the Fatsali Kerem Bundle]]></item>
+
+    <item name="history_resource-deal-blue-copper"><![CDATA[5 Blue Booty Keys]]></item>
+    <item name="history_resource-deal-blue-bronze"><![CDATA[10 Blue Booty Keys]]></item>
+    <item name="history_resource-deal-blue-silver"><![CDATA[20 Blue Booty Keys]]></item>
+    <item name="history_resource-deal-blue-gold"><![CDATA[40 Blue Booty Keys]]></item>
+    <item name="history_resource-deal-blue-platin"><![CDATA[71 Blue Booty Keys]]></item>
+    <item name="history_resource-deal-blue-diamond"><![CDATA[155 Blue Booty Keys]]></item>
+
+    <item name="history_resource-deal-red-copper"><![CDATA[10 Red Booty Keys]]></item>
+    <item name="history_resource-deal-red-bronze"><![CDATA[20 Red Booty Keys]]></item>
+    <item name="history_resource-deal-red-silver"><![CDATA[40 Red Booty Keys]]></item>
+    <item name="history_resource-deal-red-gold"><![CDATA[80 Red Booty Keys]]></item>
+    <item name="history_resource-deal-red-platin"><![CDATA[142 Red Booty Keys]]></item>
+    <item name="history_resource-deal-red-diamond"><![CDATA[310 Red Booty Keys]]></item>
+
+    <item name="package_premium-extension-2"><![CDATA[60 day premium extension successful.]]></item>
+    <item name="package_premium-extension-3"><![CDATA[90 day premium extention successful.]]></item>
+    <item name="balance_delete_uridium"><![CDATA[todo]]></item>
+
+    <item name="layer_special-offer_desc_pay_reactivation"><![CDATA[You've been chosen to get this ace opportunity and you'll feel amazing when you see the discount in this pack!]]></item>
+    <item name="layer_special-offer_desc_conversion"><![CDATA[An exclusive offer just for you! Bursting with valuable treasures, why not grab the Vital Uridium Cache!]]></item>
+    <item name="layer_special-offer_desc_veterans"><![CDATA[A classy exclusive discount for the loyal heroes of DarkOrbit!]]></item>
+    </resource>

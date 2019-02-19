@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+
+	<!-- 	#################################################
+			# 												#
+			# The texts have been categorized as follows	#
+			#	 											#
+			# Country specific holiday events				#
+			# Permanent announcements (Subscriptions,		#
+			#	Communication Channels, etc.)				#
+			# Game Feature News								#
+			# Event Related Sales etc.						#
+			# TR Specific Sales								#
+			# Tiered Spender								#
+			# Galaxy Gate Special Sales -					#
+			#	GG Weekend, GG Double Rewards,				#
+			#	GG Extra Rewards							#
+			# Starter Packs									#
+			# One Day Sales Events (Bonus Days, Flash		#
+			#	Sales, etc.                                 #
+			# Repeatable Events                             # 
+			# Ship and Design Sales							#
+			# Booty Box Refreshes	                        #
+			# Reworked Sale BNs                             #
+			# Unsorted and Miscellaneous					#
+			#												#
+			#################################################
+	-->
+
+<!--The following texts are for the country specific bank holiday events-->
+
+	<item name="breakingNewsTitle_minijuegos2012"><![CDATA[Do not miss this super exclusive offer!]]></item>
+	<item name="breakingNewsTeaser_minijuegos2012"><![CDATA[Enhance your fleet with some fantastic deals.]]></item>
+	<item name="breakingNewsContent_minijuegos2012"><![CDATA[Hello Space Pilots,<br><br>Save %percentageSavingVariable% % on a %packageNameVariable% and get %packagaDetailsVariable% for a bargain price!<br>This is a limited offer, so take care not to miss out!<br><br>]]></item>
+	<item name="breakingNewsFooter_minijuegos2012"><![CDATA[Your DarkOrbit Team]]></item>
+
+	
+
+<item name="breakingNewsTitle_newHardwarePackages"><![CDATA[Hunger for Hardware? Great New Packs Added!]]></item>
+<item name="breakingNewsTeaser_newHardwarePackages"><![CDATA[New “Engineers” packs fulfil all your crafting desires.]]></item>
+<item name="breakingNewsContent_newHardwarePackages"><![CDATA[Assembly manufacture is where it’s at! As more recipes are added, collecting resources has become the new recreation of all the finest pilots. To honor this desire we’ve added some valuable new Hardware packs to the payment section.<br /><br />In addition to the existing “Component” and the “Starter Hardware” package, we now offer: <br /><br /><strong>The “A1 Engineers” Pack</strong>
+	<ul>
+		<li>High-Frequency Cable x15</li>
+		<li>Nano Case x10</li>
+		<li>Prismatic Socket x10</li>
+		<li>Nano Condenser x8</li>
+		<li>Hybrid Processor x6</li>
+		<li>Micro-transistors x6</li>
+	</ul>
+		<strong>The “Ace Engineers” Pack</strong>
+	<ul>
+		<li>High-Frequency Cable x30</li>
+		<li>Nano Case x15</li>
+		<li>Prismatic Socket x15</li>
+		<li>Nano Condenser x15</li>
+		<li>Hybrid Processor x15</li>
+		<li>Micro-transistors x15</li>
+	</ul>]]></item>
+<item name="breakingNewsFooter_newHardwarePackages"><![CDATA[Happy Crafting!]]></item>
+
+<item name="breakingNewsTitle_UBAMatch2016"><![CDATA[Ultimate Battle Arena – Matchmaking Update]]></item>
+<item name="breakingNewsTeaser_UBAMatch2016"><![CDATA[We’ve tweaked the Ultimate Battle Arena Matchmaking so you can fight more fairly!]]></item>
+<item name="breakingNewsContent_UBAMatch2016"><![CDATA[Greetings Ace Pilots!<br /><br />We’ve tweaked the Ultimate Battle Arena (UBA) Matchmaking so you can fight more fairly!<br /><br />Now the equipment installed in your ships slots plays a significant role in deciding who you'll be matched against. <br /><br />The system also reduces the chance of being matched against the same opponent, multiple times in a row. Giving you a diverse array of different opponents to challenge you in the UBA.]]></item>
+<item name="breakingNewsFooter_UBAMatch2016"><![CDATA[Show the others who’s the boss of the arena!]]></item>
+
+<item name="breakingNewsTitle_priceIncrease2017"><![CDATA[Powerful Vibes]]></item>
+<item name="breakingNewsTeaser_priceIncrease2017"><![CDATA[What a rush!]]></item>
+<item name="breakingNewsContent_priceIncrease2017"><![CDATA[Hey Pilots!<br /><br />Some excellent packs have come onto the market for a limited time, with a fine selection of resources for those who want to get an edge!. Choose between the Advantage Power Pack, Shroud Power Pack and Rising Power Pack and make your enemies float home.<br /><br />Get them all, before the offer ends!]]></item>
+<item name="breakingNewsFooter_priceIncrease2017"><![CDATA[Your DarkOrbit Team]]></item>
+
+<item name="breakingNewsFooter_hatchingOut"><![CDATA[A sign of things to come?]]></item>
+
+<item name="breakingNewsTitle_ubaFeb2017"><![CDATA[Ultimate Battle Arena is Back!]]></item>
+<item name="breakingNewsTeaser_ubaFeb2017"><![CDATA[Can you become the Arena Champion?]]></item>
+<item name="breakingNewsContent_ubaFeb2017"><![CDATA[It's time to test yourself in the Ultimate Battle Arena. Engage in furious 1 v 1 matches in order to gain Arena points, and earn a spot in the top 50 to be eligible for rewards at the end of the season. The rewards pool has been updated to include the rare ores needed to craft the new powerful Enhanced LF-4s. For a full FAQ, and updated rewards list, please visit your local forum. Do you have what it takes to hold the Arena Gold Title?
+
+	This season will run from 10.03 – 31.03
+
+	<strong>The summary</strong>
+	<ul>
+	<li>Full FAQ Available in Your Forum</li>
+	<li>BIfenon, Kyhalon, and Tetrathrin in Rewards Pool</li>
+	</UL>]]></item>
+<item name="breakingNewsFooter_ubaFeb2017"><![CDATA[Fortune favors the bold!]]></item>
+
+<item name="breakingNewsTitle_easterBonus2017"><![CDATA[Happy Easter Gift!]]></item>
+<item name="breakingNewsTeaser_easterBonus2017"><![CDATA[Easter login bonus and more!]]></item>
+<item name="breakingNewsContent_easterBonus2017"><![CDATA[The DarkOrbit team would like to wish every pilot a happy Easter weekend! To thank you for your support, we have set up a login bonus that was booked as soon as you signed in.<br /><br />The package consists of 1 week of premium membership, 500 ACM Mines, and 5,000 Xenomit. On top of this, we have activated a one-time payment discount code for 15% off one purchase. Use the code EASTER17 at checkout to take advantage.<br /><br />Login bonus and Discount code valid from 13.04 – 17.04
+<ul>
+<li>Discount Code EASTER17</li>
+</ul>]]></item>
+<item name="breakingNewsFooter_easterBonus2017"><![CDATA[Happy gaming!!]]></item>
+
+<item name="breakingNewsTitle_pirateHunt2017"><![CDATA[Pirate Hunt]]></item>
+<item name="breakingNewsTeaser_pirateHunt2017"><![CDATA[Kill Pirates for Booty!]]></item>
+<item name="breakingNewsContent_pirateHunt2017"><![CDATA[As the edges of humanity begin to crumble, pirates raid our outposts.<br /><br />Arm yourself and challenge them in deadly combat to become a Pirate Hunt destroyer! Aiding your clan, supporting humanity and wiping the scum from the face of the galaxy. With Premium membership, enhanced LF-4’s and more as rewards.<br /><br />Time to fight!]]></item>
+<item name="breakingNewsFooter_pirateHunt2017"><![CDATA[Defend Humanity!]]></item>
+
+<item name="breakingNewsTitle_permanentQuarantineZone"><![CDATA[Permanent Quarantine Zone]]></item>
+<item name="breakingNewsTeaser_permanentQuarantineZone"><![CDATA[Challenge the Enemy!]]></item>
+<item name="breakingNewsContent_permanentQuarantineZone"><![CDATA[Pilots, sources have confirmed that the rift to the Quarantine Zone has stabilized, making further infection a permanent threat. It’s time to fight to save humanity!<br /><br />With boosters that only drain in gameplay time, additional rewards and a potential jackpot for those defeating the Gygerthrall Overlord it’s time to get back in the action!]]></item>
+<item name="breakingNewsFooter_permanentQuarantineZone"><![CDATA[Confine the Infection!]]></item>
+
+<item name="breakingNewsTitle_spartanDrone"><![CDATA[The Spartan Drones Have Arrived]]></item>
+<item name="breakingNewsTeaser_spartanDrone"><![CDATA[Craft Yours Today! ]]></item>
+<item name="breakingNewsContent_spartanDrone"><![CDATA[The techs continue to make advances, and have now found a way to assemble a powerful new drone. The Spartan drone can be built using Hercules and Havoc designs combined with Schism, and will give you a boost to damage, shield, and HP.
+<ul>
+<li>Full FAQ available in your local forum</li>
+<li>Spartan blueprint available via completion of the Kronos Gate</li>
+<li>Increased drop chance of Havoc drones in the Zeta Gate</li>
+<li>Increased drop chance of Hercules drones in the Kappa Gate</li>
+<li>The Spartan blueprint is available only after collection, and stays in your Assembly permanently</li>
+</ul><br />]]></item>
+<item name="breakingNewsFooter_spartanDrone"><![CDATA[Bow down before no enemy!]]></item>
+
+<item name="breakingNewsTitle_bonusCalendarMay2017"><![CDATA[Solar Calendar Bonanza!]]></item>
+<item name="breakingNewsTeaser_bonusCalendarMay2017"><![CDATA[Booty Bonanza!]]></item>
+<item name="breakingNewsContent_bonusCalendarMay2017"><![CDATA[Open each door on the Solar Calendar and receive a selection of exceptional booty, including Indoctrine Oil and Tetrathrin.<br /><br />Login daily, open a new window and find out what prize you’ve received. Miss a day and you’ll miss that days prize, so better come back daily and grab what’s on offer.]]></item>
+<item name="breakingNewsFooter_bonusCalendarMay2017"><![CDATA[A Daily Prize!]]></item>
+
+<item name="breakingNewsTitle_bonusCalendarMay2017Tr"><![CDATA[2017 Ramazan Ayı Takvimi]]></item>
+<item name="breakingNewsTeaser_bonusCalendarMay2017Tr"><![CDATA[Ramazan bereketiyle geldi. 24 gün boyunca çeşitli  hediye ekipman ve malzemelerin  yer alacağı  Ramazan ayına özel takvim sizlerle.]]></item>
+<item name="breakingNewsContent_bonusCalendarMay2017Tr"><![CDATA[Güneş Takvimindeki her bir kapıyı aç ve Indoctrine Oil, Tetrathrin ve bir HiperPlazmoit LF-4 dahil çeşitli, olağanüstü ganimetleri kazan. <br /><br />Her gün oyuna gir, yeni bir pencere aç ve hangi ödülü kazandığını öğren. Bir günü kaçırırsan o günün ödülünü de kaçıracaksın; bu yüzden her gün uğrayarak kampanyadan yararlanman senin için iyi olur.]]></item>
+<item name="breakingNewsFooter_bonusCalendarMay2017Tr"><![CDATA[Tüm oyuncularımıza Hayırlı Ramazanlar diliyoruz.]]></item>
+
+<item name="breakingNewsTitle_vortexTerror2017"><![CDATA[Vortex of Terror]]></item>
+<item name="breakingNewsTeaser_vortexTerror2017"><![CDATA[Battle your Terrors!]]></item>
+<item name="breakingNewsContent_vortexTerror2017"><![CDATA[Pilot, are you up to a challenge? As the Vortex of Terror has opened and humanity is under threat!<br/><br />Optimize your experience by undertaking missions for Nyx, enter the vicious Vortex of Terror and battle the enemies within, as the Revenant Slender seek to enter human realms to feast on their soul energy.<br/><br />Are you ready to take on the nightmare realm? We bet you are!]]></item>
+<item name="breakingNewsFooter_vortexTerror2017"><![CDATA[Enter the Maelstrom!]]></item>
+
+
+
+
+<!--End of Unsorted and Miscellaneous-->
+<!-- =============================== -->
+
+<item name="breakingNewsTitle_dummyNews"><![CDATA[TODO]]></item>
+<item name="breakingNewsTeaser_dummyNews"><![CDATA[TODO]]></item>
+<item name="breakingNewsContent_dummyNews"><![CDATA[TODO]]></item>
+<item name="breakingNewsFooter_dummyNews"><![CDATA[TODO]]></item>
+
+</resource>
+
+	<!-- 	#################################################
+			# 												#
+			# Please mind the categories mentioned at the	#
+			# top of this file.	All texts should be added	#
+			# to their specific	category 					#
+			#												#
+			#################################################
+	-->

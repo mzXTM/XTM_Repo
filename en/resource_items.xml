@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resource>
+	<!-- 	#################################################
+			# 												#
+			# The texts have been categorized as follows	#
+			#	 											#
+			# Ores          				                #
+			# Logfiles				                        #
+			# Booty Keys  								    #
+			# Blueprints					                #
+			# Vouchers, Extra Energy, Pet Fuel				#
+			# Ships								            #
+			# Ship Designs					                #
+			# Modules                           			#
+			# Equipment				            			#
+			# Ammunition									#
+			# Customization Packages                        #
+			# Drones                                        # 
+			# Drone Designs                                 #
+			# Drone Formations								#
+			# Boosters                                      #
+			# Pets & Designs                                #
+			# Pet Gear                                      #
+			# AI Protocols                                  #
+			# Currency                                      #
+			# Tech                                          #
+			# Skills                                        #
+			# Abilities                                     #
+			# Premium                                       #
+			# Other                                         #
+			#												#
+			#################################################
+	-->
+<!--The following textkeys are for ores-->
+
+ <item name="items_resource_ore_prometium_fullname"><![CDATA[Prometium]]></item>
+ <item name="items_deal_plagueAlertBooster_code"><![CDATA[Booster Sale]]></item>
+<item name="items_deal_plagueAlertBooster_short"><![CDATA[Pack]]></item>
+<item name="items_deal_apocalypseBooty_fullname"><![CDATA[Apocalypse Booty Key]]></item>
+<item name="items_deal_apocalypseBooty_description"><![CDATA[A hacked key designed to open the Apocalypse Booty Boxes, containing a variety of things to tempt the finest pilots!]]></item>
+<item name="items_deal_apocalypseBooty_tooltip_description"><![CDATA[This Apocalypse Booty Key opens the highly vauled Apocalypse Booty Boxes, stuffed to the brim with exciting treasures.]]></item>
+<item name="items_deal_apocalypseBooty_code"><![CDATA[APOC Key]]></item>
+<item name="items_deal_apocalypseBooty_short"><![CDATA[BOOTY KEY]]></item>
+<item name="items_deal_capsules_fullname"><![CDATA[Capsule]]></item>
+<item name="items_deal_capsules_description"><![CDATA[Use these capsules to enter the lottery during the Hitac event, and you could win amazing prizes!]]></item>
+<item name="items_deal_capsules_code"><![CDATA[Capsule Blueprint]]></item>
+<item name="items_deal_capsules_short"><![CDATA[Hitac Lottery]]></item>
+<item name="items_deal_prometheus-sales_fullname"><![CDATA[Prometheus Sale Bonanza]]></item>
+<item name="items_deal_prometheus-sales_description"><![CDATA[Celebrate the souls of the Prometheus by grabbing one of the exclusive packs in the Prometheus Sale Bonanza!]]></item>
+<item name="items_deal_prometheus-sales_code"><![CDATA[Prometheus Sale Bonanza]]></item>
+<item name="items_deal_prometheus-sales_short"><![CDATA[Sale]]></item>
+
+<!--End of textkeys for Deals-->
+<!-- ====================================== -->
+<!--The following textkeys are for other-->
+
+ <item name="items_resource_lottery-euro-2012_fullname"><![CDATA[Drawing entry]]></item>
+ <item name="items_resource_lottery-euro-2012_description"><![CDATA[Entry for participating in drawing.]]></item>
+ <item name="items_resource_lottery-euro-2012_short"><![CDATA[Entry]]></item>
+ <item name="items_xtm_test_key"><![CDATA[XTM Test Key in the file resource_items.xml]]></item>
+ <item name="items_special_generic_hint"><![CDATA[Only one of these items is allowed per configuration.]]></item>
+ <item name="items_design-package"><![CDATA[Design Pack]]></item>
+ <item name="items_design-package_upper"><![CDATA[DESIGN PACK]]></item>
+ <item name="items_design-skill"><![CDATA[Skill design]]></item>
+ <item name="items_design-skill_upper"><![CDATA[SKILL DESIGN]]></item>
+ <item name="items_hangar_slot_fullname"><![CDATA[HH-X]]></item>
+ <item name="items_hangar_slot_description"><![CDATA[With a hangar hall, you can quickly switch ships while at your headquarters, or even when logged out. <li>You may expand your hangar to include up to <b>10 HH-X</b>s.</li>]]></item>
+ <item name="items_hangar_slot_code"><![CDATA[HH-X]]></item>
+ <item name="items_hangar_slot_short"><![CDATA[HANGAR EXPANSION]]></item>
+ 
+ <!--End of textkeys for other-->
+<!-- ====================================== -->
+
+ <item name="items_package_s-os-01_code"><![CDATA[S-OS-01]]></item>
+ <item name="items_package_s-os-01_description"><![CDATA[Classic Collector's Sale<br /><br />Rediscover refurbished classic ships in this exclusive offer for the discerning collector. They don't make them like this any more! Admire the lines of these limited edition, hard to find, and discontinued ships - Yamato and Defcom are back!]]></item>
+ <item name="items_package_s-os-01_fullname"><![CDATA[Yamato and Defcom Ships]]></item>
+ <item name="items_package_s-os-01_short"><![CDATA[Pack]]></item>
+ <item name="items_package_s-ds-01_code"><![CDATA[S-DS-01]]></item>
+ <item name="items_package_s-ds-01_description"><![CDATA[State of the Art Sale<br /><br />Lunar Industries, Titan Technologies, and the Kepler Foundries have all come together to create unprecedented deals for the discerning pilot who demands the best. Combining next-gen techniques and ultra-modern styling, these ships are being offered at astonishing prices.]]></item>
+ <item name="items_package_s-ds-01_fullname"><![CDATA[Super Ship Selection]]></item>
+ <item name="items_package_s-ds-01_short"><![CDATA[Pack]]></item>
+ <item name="items_package_pack-defcom-raven_code"><![CDATA[D-Raven]]></item>
+ <item name="items_package_pack-defcom-raven_description"><![CDATA[Swoop down upon your prey in the classic Defcom Raven. The sweeping lines of the ship disguise its enhanced HP and cloaking ability. Ready to shock the enemy on arrival.]]></item>
+ <item name="items_package_pack-defcom-raven_fullname"><![CDATA[Defcom Raven]]></item>
+ <item name="items_package_pack-defcom-raven_short"><![CDATA[Ship]]></item>
+  <item name="items_package_pack-yamato-ronin_code"><![CDATA[Y-Ronin]]></item>
+ <item name="items_package_pack-yamato-ronin_description"><![CDATA[Be the lone warrior in the pack with the Yamato Ronin. The technicians have made a significant overhaul of this ships HP, making you harder to kill in conflict.]]></item>
+ <item name="items_package_pack-yamato-ronin_fullname"><![CDATA[Yamato Ronin]]></item>
+ <item name="items_package_pack-yamato-ronin_short"><![CDATA[Ship]]></item>
+  <item name="items_package_pack-g-ignite_code"><![CDATA[G-Ignite]]></item>
+ <item name="items_package_pack-g-ignite_description"><![CDATA[A rare gem matching the design of the ships, which fought and won the second Sibelon War of 2727. Relive past glories, fly the flag of humanity and ride into battle with this paragon of mankind!]]></item>
+ <item name="items_package_pack-g-ignite_fullname"><![CDATA[Goliath Ignite]]></item>
+ <item name="items_package_pack-g-ignite_short"><![CDATA[Ship]]></item>
+  <item name="items_package_pack-n-ambassador_code"><![CDATA[N-Ambassador]]></item>
+ <item name="items_package_pack-n-ambassador_description"><![CDATA[Be the VIP of your faction with the Nostromo Ambassador. The ship that helped seal the Crystal Truce of 2641 is now yours. Ready to add a touch of class, diplomacy and still be a powerful vessel in battle.]]></item>
+ <item name="items_package_pack-n-ambassador_fullname"><![CDATA[Nostromo Ambassador]]></item>
+ <item name="items_package_pack-n-ambassador_short"><![CDATA[Ship]]></item>
+ <item name="items_package_dd-rb-02_code"><![CDATA[DD-RB-02]]></item>
+ <item name="items_package_dd-rb-02_description"><![CDATA[Robo-bat design color variations<br /><br />This drone design will make your drones look like threatening Robo-bats! Pick your favorite color, give your drones a trail, and stand out from the crowd!]]></item>
+ <item name="items_package_dd-rb-02_fullname"><![CDATA[Robo-bat Drone Colors]]></item>
+ <item name="items_package_dd-rb-02_short"><![CDATA[Cosmetic Design Pack]]></item>
+  <item name="items_package_dd-s-02_code"><![CDATA[DD-S-02]]></item>
+ <item name="items_package_dd-s-02_description"><![CDATA[Skull drone design color variations<br /><br />This drone design will make your drones look like bone-chilling Skulls! Pick your favorite color, give your drones a trail, and stand out from the crowd!]]></item>
+ <item name="items_package_dd-s-02_fullname"><![CDATA[Skull Drone Colors]]></item>
+ <item name="items_package_dd-s-02_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_dd-r-02_code"><![CDATA[DD-R-02]]></item>
+ <item name="items_package_dd-r-02_description"><![CDATA[Reaper drone design color variations<br /><br />This drone design will make your drones look like sinister Reapers! Pick your favorite color, give your drones a trail, and stand out from the crowd!]]></item>
+ <item name="items_package_dd-r-02_fullname"><![CDATA[Reaper Drone Colors]]></item>
+ <item name="items_package_dd-r-02_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_dd-f-01_code"><![CDATA[DD-F-01]]></item>
+ <item name="items_package_dd-f-01_description"><![CDATA[Imbue your drones with the newest Ice meteoroid technology! This design will only alter the look of your drones!]]></item>
+ <item name="items_package_dd-f-01_fullname"><![CDATA[Hailstorm Drone]]></item>
+ <item name="items_package_dd-f-01_short"><![CDATA[Cosmetic Design]]></item>
+ <item name="items_package_dd-p-01_code"><![CDATA[DD-PC-01]]></item>
+ <item name="items_package_dd-p-01_description"><![CDATA[Although they have now been eradicated, M.A.S.Q.U.E.'s cutting-edge technology still makes an impression! Give your insipid workhorse drones the look of a fireworks display in Blaze, Sandstorm or Borealis!]]></item>
+ <item name="items_package_dd-p-01_fullname"><![CDATA[Awesome M.A.S.Q.U.E. Drone]]></item>
+ <item name="items_package_dd-p-01_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_pd-pc-01_code"><![CDATA[P.E.T. Design Pack]]></item>
+ <item name="items_package_pd-pc-01_description"><![CDATA[Cosmetic P.E.T. designs as far as the radar's eye can see! Now the Arctic, Red, and Green P.E.T. designs can all be yours. Stand out from the crowd!]]></item>
+ <item name="items_package_pd-pc-01_fullname"><![CDATA[Arctic, Red and Green P.E.T.]]></item>
+ <item name="items_package_pd-pc-01_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_pd-c-01_code"><![CDATA[Green Chimera]]></item>
+ <item name="items_package_pd-c-01_description"><![CDATA[M.A.S.Q.U.E.'s P.E.T. designs were winners across the board. Grab the Chimera design in green, and bring a touch of natures bounty to space.]]></item>
+ <item name="items_package_pd-c-01_fullname"><![CDATA[Green Chimera P.E.T.]]></item>
+ <item name="items_package_pd-c-01_short"><![CDATA[Cosmetic Design]]></item>
+ <item name="items_package_pd-c-02_code"><![CDATA[Orange Chimera]]></item>
+ <item name="items_package_pd-c-02_description"><![CDATA[Thanks to M.A.S.Q.U.E., your P.E.T. can be an orange Chimera - ready to take on this world or any other. Bring a dab of color to the darkness of deep space!]]></item>
+ <item name="items_package_pd-c-02_fullname"><![CDATA[Orange Chimera P.E.T.]]></item>
+ <item name="items_package_pd-c-02_short"><![CDATA[Cosmetic Design]]></item>
+ <item name="items_package_pd-c-03_code"><![CDATA[Red Chimera]]></item>
+ <item name="items_package_pd-c-03_description"><![CDATA[Dragonfire! Friend and foe alike will be speechless before this Chimera design for your P.E.T. - look for the genuine article, now in dragon-red!]]></item>
+ <item name="items_package_pd-c-03_fullname"><![CDATA[Red Chimera P.E.T.]]></item>
+ <item name="items_package_pd-c-03_short"><![CDATA[Cosmetic Design]]></item>
+ <item name="items_package_masqueChimera_code"><![CDATA[The Red Box]]></item>
+ <item name="items_package_masqueChimera_description"><![CDATA[Do you have a fiery temperament and the aesthetic to match? Then this fabulous offer from M.A.S.Q.U.E. is meant for you! Get the snazzy Chimera P.E.T. design along with 10 Phantom designs for your drones, both (of course) in flaming red!]]></item>
+ <item name="items_package_masqueChimera_fullname"><![CDATA[The Red Box]]></item>
+ <item name="items_package_masqueChimera_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_expo-tartarus_code"><![CDATA[Tartarus Set]]></item>
+ <item name="items_package_expo-tartarus_description"><![CDATA[A completionist collector’s delight! Fly off with the Tartarus ship, 10 Phantom drone designs, and 1 Chimera P.E.T. design – the full matched set painted in Blaze!]]></item>
+ <item name="items_package_expo-tartarus_fullname"><![CDATA[Tartarus Ship, P.E.T. and Drone]]></item>
+ <item name="items_package_expo-tartarus_short"><![CDATA[Set]]></item>
+ <item name="items_package_poisonA-EliteSet_code"><![CDATA[Poison A-Elite Set]]></item>
+ <item name="items_package_poisonA-EliteSet_description"><![CDATA[A space ship enthusiast's delight! Fly off with a special design for your Aegis Elite, as well as 10 A-Elite drone designs and an A-Elite P.E.T. design, all painted in Poison!]]></item>
+ <item name="items_package_poisonA-EliteSet_fullname"><![CDATA[Poison A-Elite Ship, P.E.T. and Drone]]></item>
+ <item name="items_package_poisonA-EliteSet_short"><![CDATA[Set]]></item>
+ <item name="items_package_event-deal-poisenPusatSet_code"><![CDATA[Poison Pusat Set]]></item>
+ <item name="items_package_event-deal-poisenPusatSet_description"><![CDATA[A space ship enthusiast's delight! Fly off with a terrific design for your Pusat and 10 Pusat drone designs all painted in Poison!]]></item>
+ <item name="items_package_event-deal-poisenPusatSet_fullname"><![CDATA[Poison Pusat Ship, P.E.T. and Drone]]></item>
+ <item name="items_package_event-deal-poisenPusatSet_short"><![CDATA[Set]]></item>
+ <item name="items_package_event-deal-poisenSpectrumSet_code"><![CDATA[Poison Spectrum Set]]></item>
+ <item name="items_package_event-deal-poisenSpectrumSet_description"><![CDATA[A space ship enthusiast's delight! Fly off with a terrific design for your Spectrum, and 10 Spectrum drone designs all painted in Poison!]]></item>
+ <item name="items_package_event-deal-poisenSpectrumSet_fullname"><![CDATA[Poison Spectrum Ship, P.E.T. and Drone]]></item>
+ <item name="items_package_event-deal-poisenSpectrumSet_short"><![CDATA[Set]]></item>
+ <item name="items_package_event-deal-blaze-spectrum-full_code"><![CDATA[Blaze Spectrum Set]]></item>
+ <item name="items_package_event-deal-blaze-spectrum-full_description"><![CDATA[A space ship enthusiast's delight! Fly off with a special design for your Spectrum, as well as 10 Spectrum drone designs and a Spectrum P.E.T. design, all painted in Blaze!]]></item>
+ <item name="items_package_event-deal-blaze-spectrum-full_fullname"><![CDATA[Blaze Spectrum Ship, P.E.T. and Drone]]></item>
+ <item name="items_package_event-deal-blaze-spectrum-full_short"><![CDATA[Set]]></item>
+ <item name="items_package_event-deal-blaze-pusat-full_code"><![CDATA[Blaze Pusat Set]]></item>
+ <item name="items_package_event-deal-blaze-pusat-full_description"><![CDATA[A space ship enthusiast's delight! Fly off with a special design for your Pusat, as well as 10 Pusat drone designs and a Pust P.E.T. design, all painted in Blaze!]]></item>
+ <item name="items_package_event-deal-blaze-pusat-full_fullname"><![CDATA[Blaze Pusat Ship, P.E.T. and Drone]]></item>
+ <item name="items_package_event-deal-blaze-pusat-full_short"><![CDATA[Set]]></item>
+ <item name="items_package_deal-frozenMirage_code"><![CDATA[Frozen Mirage]]></item>
+ <item name="items_package_deal-frozenMirage_description"><![CDATA[Send an icy chill down your enemies’ spine with the Frozen Mirage Pack. This chillingly valuable pack contains all the artic designs for the Spectrum, Sentinel, Venom, V-Lightning, Pusat and N-Ambassador.]]></item>
+ <item name="items_package_deal-frozenMirage_fullname"><![CDATA[Frozen Mirage Ship Skins]]></item>
+ <item name="items_package_deal-frozenMirage_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_deal-spectrumChroma_code"><![CDATA[Spectrum Chroma]]></item>
+ <item name="items_package_deal-spectrumChroma_description"><![CDATA[Pick your true colour of Spectrum from the much vaunted Spectrum Chroma Pack at a highly desirable price. Each pack contains the Poison, Sandstorm, Blaze and Ocean Spectrum designs.]]></item>
+ <item name="items_package_deal-spectrumChroma_fullname"><![CDATA[Spectrum Chroma Ship Skins]]></item>
+ <item name="items_package_deal-spectrumChroma_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_deal-pusatChroma_code"><![CDATA[Pusat Chroma]]></item>
+ <item name="items_package_deal-pusatChroma_description"><![CDATA[Get the pack with Poison, Sandstorm, Blaze and Ocean Pusat designs all in one place. The highly prized Pusat Chroma pack is available now at a highly sought after price.]]></item>
+ <item name="items_package_deal-pusatChroma_fullname"><![CDATA[Pusat Chroma Ship Skins]]></item>
+ <item name="items_package_deal-pusatChroma_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_deal-phantomChimera_code"><![CDATA[Phantom Chimera]]></item>
+ <item name="items_package_deal-phantomChimera_description"><![CDATA[The Phantom Chimera Pack is just bursting with Phantom and Chimera designs, at a fabulous price. Deals like this can't last forever.]]></item>
+ <item name="items_package_deal-phantomChimera_fullname"><![CDATA[Phantom Chimera Ship Skins]]></item>
+ <item name="items_package_deal-phantomChimera_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_f-s-02_code"><![CDATA[Fine Design Packs!]]></item>
+ <item name="items_package_f-s-02_description"><![CDATA[A fabulous selection of designs available for all pilots of Venom, Solace and Aegis Elite vessels. Limited Offer!]]></item>
+ <item name="items_package_f-s-02_fullname"><![CDATA[Fine Ship Skins]]></item>
+ <item name="items_package_f-s-02_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_package_f-s-0201_code"><![CDATA[Striking Designs]]></item>
+ <item name="items_package_f-s-0201_description"><![CDATA[Spectrum and Pusat owners can get a classic set of designs for their ships, with the all new Poison P.E.T. designs for both ships. Take a bite!]]></item>
+ <item name="items_package_f-s-0201_fullname"><![CDATA[Striking Skins]]></item>
+ <item name="items_package_f-s-0201_short"><![CDATA[Cosmetic Design Pack]]></item>
+ <item name="items_deal_best-subscription_fullname"><![CDATA[Best Subscriptions]]></item>
+ <item name="items_deal_best-subscription_description"><![CDATA[You have a unique chance to get all popular subscriptions in this ultimate subscriptions bundle. This is a one-time limited offer, check it out now!]]></item>
+ <item name="items_deal_best-subscription_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_best-subscription_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_ready-to-fight_fullname"><![CDATA[Ready-to-Fight]]></item>
+ <item name="items_deal_ready-to-fight_description"><![CDATA[We have prepared a unique bundle offer including a Goliath spaceship and some powerful equipment! This is a one-time limited offer, go check it out now!]]></item>
+ <item name="items_deal_ready-to-fight_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_ready-to-fight_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_booty-key-silver_fullname"><![CDATA[Silver Booty Key]]></item>
+ <item name="items_deal_booty-key-silver_description"><![CDATA[Right now - and for a limited time only - you can acquire silver Booty Keys, which allow you to open Silver Booty Boxes. You'll have the chance to find Aegis, Citadel or Spearhead Ship Designs, LF-4, or Drone Designs, as well as other great prizes!]]></item>
+ <item name="items_deal_booty-key-silver_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_booty-key-silver_short"><![CDATA[Booty Key]]></item>
+ <item name="items_deal_booty-key-red_fullname"><![CDATA[Red Booty Key]]></item>
+ <item name="items_deal_booty-key-red_description"><![CDATA[Available now for a limited time only - the Red Booty Key deal. Act now and take advantage of this unbelievable doubled chance at getting your own LF-4 laser.]]></item>
+ <item name="items_deal_booty-key-red_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_booty-key-red_short"><![CDATA[Booty Key]]></item>
+ <item name="items_deal_booty-key-blue_fullname"><![CDATA[Blue Booty Key]]></item>
+ <item name="items_deal_booty-key-blue_description"><![CDATA[Available now for a limited time only - the Blue Booty Key deal. Act now and take advantage of this unbelievable threefold chance at getting your own LF-4 laser.]]></item>
+ <item name="items_deal_booty-key-blue_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_booty-key-blue_short"><![CDATA[Booty Key]]></item>
+ <item name="items_deal_pet_fullname"><![CDATA[P.E.T.]]></item>
+ <item name="items_deal_pet_description"><![CDATA[Available for a limited time only - the P.E.T. Deal. Get in on this special offer now and enjoy up to 55% savings!]]></item>
+ <item name="items_deal_pet_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_pet_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_extra-energy_fullname"><![CDATA[Extra Energy]]></item>
+ <item name="items_deal_extra-energy_description"><![CDATA[The extra energy deal - now available for a limited time. Act now and profit from these incredible offers with savings of upto 56%!]]></item>
+ <item name="items_deal_extra-energy_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_extra-energy_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_jumpvoucher_fullname"><![CDATA[Jump Coupon]]></item>
+ <item name="items_deal_jumpvoucher_description"><![CDATA[The jump coupon deal - now available for a limited time only. Act now and profit from these incredible offers with savings of up to 56%!]]></item>
+ <item name="items_deal_jumpvoucher_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_jumpvoucher_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_logfile_fullname"><![CDATA[Log-disk]]></item>
+ <item name="items_deal_logfile_description"><![CDATA[The log-disk deal: Available now for a limited time only. Act now and rake in up to 160% savings with this unbelievable offer!]]></item>
+ <item name="items_deal_logfile_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_logfile_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_booty-key_fullname"><![CDATA[Booty Key]]></item>
+ <item name="items_deal_booty-key_description"><![CDATA[The booty key deal: Available now and only for a limited time. Act now and rake in up to 160% savings with this unbelievable offer!]]></item>
+ <item name="items_deal_booty-key_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_booty-key_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_upgradevoucher_fullname"><![CDATA[Upgrade Voucher]]></item>
+ <item name="items_deal_upgradevoucher_description"><![CDATA[Available for a limited time only - the Upgrade Voucher Deal. Act now and enjoy the 100% chances of success when upgrading your items!]]></item>
+ <item name="items_deal_upgradevoucher_code"><![CDATA[DEAL]]></item>
+ <item name="items_deal_upgradevoucher_short"><![CDATA[Deal]]></item>
+ <item name="items_deal_one-turkish-lira_fullname"><![CDATA[Sadece 1,5 TL]]></item>
+ <item name="items_deal_one-turkish-lira_description"><![CDATA[Grab this unique package with most rare and useful boosters for just a handful of pennies. You’ll get:<ul><li>DMG-B02 Damage booster (+10% damage, 10 hours, works for the group)</li><li>SHD-B02 Shield Booster (+25% shield, 10 hours, works for the group)</li><li>Hp-B02 Hitpoints Booster (+10% hitpoints, 10 hours, works for the group)</li></ul>with an incredible discount!]]></item>
+ <item name="items_deal_one-turkish-lira_code"><![CDATA[KAMPANYA]]></item> 
+ <item name="items_deal_one-turkish-lira_short"><![CDATA[Sadece 1,5 TL]]></item>
+ <item name="items_deal_50-cent-boosterPack_fullname"><![CDATA[Super Booster]]></item>
+ <item name="items_deal_50-cent-boosterPack_description"><![CDATA[Grab this unique package with most rare and useful boosters for just a handful of pennies. You’ll get:<ul><li>DMG-B02 Damage booster (+10% damage, 10 hours, works for the group)</li><li>SHD-B02 Shield Booster (+25% shield, 10 hours, works for the group)</li><li>Hp-B02 Hitpoints Booster (+10% hitpoints, 10 hours, works for the group)</li></ul>with an incredible discount!]]></item>
+ <item name="items_deal_50-cent-boosterPack_code"><![CDATA[SBP-01]]></item>
+ <item name="items_deal_50-cent-boosterPack_short"><![CDATA[Pack]]></item>
+ <item name="items_deal_tournament-package_fullname"><![CDATA[Tournament Ammo]]></item>
+ <item name="items_deal_tournament-package_description"><![CDATA[Special packs of boosters and ammo – hurry before they're gone! Whether you prefer to fly aggressively, defensively, or both, you can pounce on an amazing deal tailored for you, featuring limited availability items for a fantastic price.]]></item>
+ <item name="items_deal_tournament-package_code"><![CDATA[TR-SP-01]]></item>
+ <item name="items_deal_tournament-package_short"><![CDATA[Pack]]></item>
+ <item name="items_deal_red-blue-booty_fullname"><![CDATA[Ultra Booty Secret Sale]]></item>
+ <item name="items_deal_red-blue-booty_description"><![CDATA[Brought to you by the Helix: don't miss out on the new Ultra versions of Red and Blue Booty, along with a tripled chance at excellent prizes!]]></item>
+ <item name="items_deal_red-blue-booty_code"><![CDATA[U-RB-01]]></item>
+ <item name="items_deal_red-blue-booty_short"><![CDATA[Booty Key]]></item>
+ <item name="items_deal_red-blue-booty-discount_fullname"><![CDATA[Ultra Booty Secret Sale]]></item>
+ <item name="items_deal_red-blue-booty-discount_description"><![CDATA[Brought to you by the Helix: don't miss out on the new Ultra versions of Red and Blue Booty, along with a tripled chance at excellent prizes!]]></item>
+ <item name="items_deal_red-blue-booty-discount_code"><![CDATA[U-RB-01]]></item>
+ <item name="items_deal_red-blue-booty-discount_short"><![CDATA[Booty Key]]></item>
+ <item name="items_resource_capsules_fullname"><![CDATA[Capsule]]></item>
+ <item name="items_resource_capsules_description"><![CDATA[Use these capsules to enter the lottery during the Hitac event, and you could win amazing prizes!]]></item>
+ <item name="items_resource_capsules_code"><![CDATA[Capsule Blueprint]]></item>
+ <item name="items_resource_capsules_short"><![CDATA[Hitac Lottery]]></item>
+
+
+<!-- 
+<item name="items__fullname"><![CDATA[st]]></item>
+<item name="items__short"><![CDATA[st]]></item>
+<item name="items__code"><![CDATA[st]]></item>
+<item name="items__description"><![CDATA[st]]></item>
+ -->
+ 
+
+</resource>
