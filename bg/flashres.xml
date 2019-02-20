@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <item name="flashres_xtm_test_key"><![CDATA[XTM Test Key in the file flashres.xml bg]]></item>
+    <item name="no_clan"><![CDATA[No clan bg ]]></item>
+    <item name="notloggedin"><![CDATA[Please log in againbg ]]></item>
+    <item name="nohitpoints"><![CDATA[No hit points left.b g Repair your ship in the hangar or buy a new ship! bg ]]></item>
+    <item name="invalid_session"><![CDATA[You're not logged in. bg Go to the homepage and log in to continue playing! bg]]></item>
+    <item name="title_alert"><![CDATA[Note bg ]]></item>
+    <item name="title_warning"><![CDATA[Warning bg ]]></item>
+    <item name="title_error"><![CDATA[Error bg ]]></item>
+    <item name="doubleloggedin"><![CDATA[You're already logged in on the map. bg   Please close the other browser window. bg ]]></item>
+    <item name="canjmp"><![CDATA[You can make a jump if your level allows it. gg]]></item>
+    <item name="clearing"><![CDATA[_ bg]]></item>
+    <item name="nonjmp"><![CDATA[You can't use this portal: You need to have at least level %! bg]]></item>
+    <item name="notarget"><![CDATA[Unable to attack: You didn't select an opponent. bg]]></item>
+    <item name="oksammel"><![CDATA[%! collected bg]]></item>
+    <item name="kill_progress_window_npc_count"><![CDATA[Current %NPC_NAME% on the map: %AMOUNT% bg]]></item>
+    <item name="kill_progress_window_plague_alert"><![CDATA[Plague Alert! bg]]></item>
+    <item name="kill_progress_window_npc_count_2"><![CDATA[There are currently %AMOUNT% %NPC_NAME% on the map! bg]]></item>
+    <item name="ttip_apocalypse_box"><![CDATA[A fine selection of prizes can be found in the Apocalypse Box. bg Grab it now, pilot! bg]]></item>
+    <item name="ttip_red_bootybox"><![CDATA[The Red Booty Box is stocked full of treasures. bg Open it with a Red Booty Key! bg]]></item>
+    <item name="ttip_blue_bootybox"><![CDATA[The Blue Booty Box is stocked full of treasures. bg Open it with a Blue Booty Key! bg]]></item>
+    <item name="jumpgate_failed_no_key_activated"><![CDATA[You need an Immunizer CPU and a group to access the Quarantine Zone. bg]]></item>
+    <item name="log_msg_no_warp_queue_rzone"><![CDATA[Your ship cannot go to warp while queuing for Refractions. gb]]></item>
+    <item name="log_msg_no_warp_confirmation_rzone"><![CDATA[Your ship cannot go to warp during entry confirmation to Refractions. bg]]></item>
+    <item name="title_event_rewards_window"><![CDATA[Pirate Hunt Rewards]]></item>
+    <item name="event_rewards_window_headline"><![CDATA[CONGRATULATIONS!]]></item>
+    <item name="event_rewards_window_message"><![CDATA[We are delighted to reward you for your actions protecting humanity.]]></item>
+    <item name="event_rewards_window_message_clan"><![CDATA[We are delighted to reward your clan for your actions in protecting humanity.]]></item>
+    <item name="event_rewards_window_confirmBtn"><![CDATA[ACCEPT]]></item>
+    <item name="event_rewards_window_place"><![CDATA[You are No. #%POSITION%]]></item>
+    <item name="alienhunt_tab_overview"><![CDATA[OVERVIEW]]></item>
+    <item name="alienhunt_tab_points"><![CDATA[POINTS]]></item>
+    <item name="alienhunt_tab_rewards"><![CDATA[REWARDS]]></item>
+    <item name="alienhunt_tab_overview_timeleft"><![CDATA[Time Left:]]></item>
+    <item name="alienhunt_tab_overview_playerpoints"><![CDATA[Player Points]]></item>
+    <item name="alienhunt_tab_overview_clanpoints"><![CDATA[Clan Points]]></item>
+    <item name="alienhunt_tab_overview_hint"><![CDATA[If you want to compare your position with others, check out the Hall of Fame.]]></item>
+    <item name="alienhunt_tab_overview_button"><![CDATA[HALL OF FAME]]></item>
+    <item name="alienhunt_tab_overview_button_ttip"><![CDATA[Opens a new browser tab]]></item>
+    <item name="alienhunt_tab_points_headline_prey"><![CDATA[PREY]]></item>
+    <item name="alienhunt_tab_points_headline_points"><![CDATA[POINTS]]></item>
+    <item name="alienhunt_tab_rewards_headline_playerrewards"><![CDATA[PLAYER REWARDS]]></item>
+    <item name="alienhunt_tab_rewards_headline_clanrewards"><![CDATA[CLAN REWARDS]]></item>
+    <item name="alienhunt_tab_rewards_tooltip_playerrewards"><![CDATA[Rewards for %POSITION% position]]></item>
+    <item name="alienhunt_tab_rewards_tooltip_clanrewards"><![CDATA[Clan rewards for %POSITION% position]]></item>
+</resource>
