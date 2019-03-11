@@ -3,4 +3,4 @@ English
 Repository
 Connector
 try now
-Final
+Finaly
