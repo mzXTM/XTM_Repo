@@ -3,9 +3,9 @@
     <item name="dochat.chat.kickmsg"><![CDATA[Du wurdest von %ADMIN gekickt!]]></item>
     <item name="dochat.chat.banmsg"><![CDATA[Du wurdest von %ADMIN gebannt!]]></item>
     <item name="dochat.chat.kickBySystem"><![CDATA[Du wurdest vom System gekickt!]]></item>
-    <item name="dochat.chat.roomnameToShort"><![CDATA[LE Raumname zu kurz!]]></item>
+    <item name="dochat.chat.roomnameToShort" comment="Too short room name"><![CDATA[LE Raumname zu kurz!]]></item>
     <item name="dochat.chat.banBySystem"><![CDATA[Du wurdest vom System gebannt!]]></item>
-    <item name="dochat.chat.wrongCommand"><![CDATA[Le Kommando nicht bekannt! ]]></item>
+    <item name="dochat.chat.wrongCommand" comment="You cant go commando"><![CDATA[Le Kommando nicht bekannt! ]]></item>
     <item name="dochat.chat.noMorePrivateRoomsAllowed"><![CDATA[Du kannst keine weiteren Räume erstellen!]]></item>
     <item name="dochat.chat.kickBySystemBadRoomName"><![CDATA[Du wurdest wegen der Wahl des Raumnamens gekickt!]]></item>
     <item name="dochat.chat.bannBySystemBadRoomName"><![CDATA[Du wurdest wegen der Wahl des Raumnamens gebannt!]]></item>
