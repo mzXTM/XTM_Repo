@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <item name="dochat.chat.kickmsg"><![CDATA[Du wurdest von %ADMIN gekickt!]]></item>
+    <item name="dochat.chat.banmsg"><![CDATA[Du wurdest von %ADMIN gebannt!]]></item>
+    <item name="dochat.chat.kickBySystem"><![CDATA[Le Du wurdest vom System gekickt!]]></item>
+    <item name="dochat.chat.roomnameToShort"><![CDATA[Le gitne Raumname zu kurz!]]></item>
+    <item name="dochat.chat.banBySystem" comment="You are banned"><![CDATA[LE LE LE Du wurdest vom System gebannt!]]></item>
+    <item name="dochat.chat.wrongCommand"><![CDATA[LE gitne Kommando nicht bekannt!]]></item>
+    <item name="dochat.chat.noMorePrivateRoomsAllowed"><![CDATA[Le Du kannst keine weiteren Räume erstellen!]]></item>
+    <item name="dochat.chat.kickBySystemBadRoomName"><![CDATA[Du wurdest wegen der Wahl des Raumnamens gekickt!]]></item>
+    <item name="dochat.chat.bannBySystemBadRoomName"><![CDATA[Du wurdest wegen der Wahl des Raumnamens gebannt!]]></item>
+</resource>
